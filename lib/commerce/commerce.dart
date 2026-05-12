@@ -1,0 +1,9 @@
+export 'widgets/merchant_signup_widgets.dart';
+export 'pages/merchant_signup_step1_page.dart';
+export 'pages/merchant_signup_step2_page.dart';
+export 'pages/merchant_signup_step3_page.dart';
+export 'pages/merchant_signup_step4_page.dart';
+export 'pages/accueil_commercant.dart';
+export 'pages/mes_commandes_page.dart';
+export 'pages/mes_offres_page.dart';
+export 'pages/statistiques_page.dart';

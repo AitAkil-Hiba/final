@@ -1,0 +1,6840 @@
+{
+    "wilayas": [
+      {
+        "code": "01",
+        "name": "Adrar"
+      },
+      {
+        "code": "02",
+        "name": "Chlef"
+      },
+      {
+        "code": "03",
+        "name": "Laghouat"
+      },
+      {
+        "code": "04",
+        "name": "Oum El Bouaghi"
+      },
+      {
+        "code": "05",
+        "name": "Batna"
+      },
+      {
+        "code": "06",
+        "name": "Bejaia"
+      },
+      {
+        "code": "07",
+        "name": "Biskra"
+      },
+      {
+        "code": "08",
+        "name": "Bechar"
+      },
+      {
+        "code": "09",
+        "name": "Blida"
+      },
+      {
+        "code": "10",
+        "name": "Bouira"
+      },
+      {
+        "code": "11",
+        "name": "Tamanrasset"
+      },
+      {
+        "code": "12",
+        "name": "Tebessa"
+      },
+      {
+        "code": "13",
+        "name": "Tlemcen"
+      },
+      {
+        "code": "14",
+        "name": "Tiaret"
+      },
+      {
+        "code": "15",
+        "name": "Tizi Ouzou"
+      },
+      {
+        "code": "16",
+        "name": "Algiers"
+      },
+      {
+        "code": "17",
+        "name": "Djelfa"
+      },
+      {
+        "code": "18",
+        "name": "Jijel"
+      },
+      {
+        "code": "19",
+        "name": "Setif"
+      },
+      {
+        "code": "20",
+        "name": "Saida"
+      },
+      {
+        "code": "21",
+        "name": "Skikda"
+      },
+      {
+        "code": "22",
+        "name": "Sidi Bel Abbes"
+      },
+      {
+        "code": "23",
+        "name": "Annaba"
+      },
+      {
+        "code": "24",
+        "name": "Guelma"
+      },
+      {
+        "code": "25",
+        "name": "Constantine"
+      },
+      {
+        "code": "26",
+        "name": "Medea"
+      },
+      {
+        "code": "27",
+        "name": "Mostaganem"
+      },
+      {
+        "code": "28",
+        "name": "M'Sila"
+      },
+      {
+        "code": "29",
+        "name": "Mascara"
+      },
+      {
+        "code": "30",
+        "name": "Ouargla"
+      },
+      {
+        "code": "31",
+        "name": "Oran"
+      },
+      {
+        "code": "32",
+        "name": "El Bayadh"
+      },
+      {
+        "code": "33",
+        "name": "Illizi"
+      },
+      {
+        "code": "34",
+        "name": "Bordj Bou Arreridj"
+      },
+      {
+        "code": "35",
+        "name": "Boumerdes"
+      },
+      {
+        "code": "36",
+        "name": "El Tarf"
+      },
+      {
+        "code": "37",
+        "name": "Tindouf"
+      },
+      {
+        "code": "38",
+        "name": "Tissemsilt"
+      },
+      {
+        "code": "39",
+        "name": "El Oued"
+      },
+      {
+        "code": "40",
+        "name": "Khenchela"
+      },
+      {
+        "code": "41",
+        "name": "Souk Ahras"
+      },
+      {
+        "code": "42",
+        "name": "Tipaza"
+      },
+      {
+        "code": "43",
+        "name": "Mila"
+      },
+      {
+        "code": "44",
+        "name": "Ain Defla"
+      },
+      {
+        "code": "45",
+        "name": "Naama"
+      },
+      {
+        "code": "46",
+        "name": "Ain Temouchent"
+      },
+      {
+        "code": "47",
+        "name": "Ghardaia"
+      },
+      {
+        "code": "48",
+        "name": "Relizane"
+      },
+      {
+        "code": "49",
+        "name": "Timimoun"
+      },
+      {
+        "code": "50",
+        "name": "Bordj Badji Mokhtar"
+      },
+      {
+        "code": "51",
+        "name": "Ouled Djellal"
+      },
+      {
+        "code": "52",
+        "name": "Beni Abbes"
+      },
+      {
+        "code": "53",
+        "name": "In Salah"
+      },
+      {
+        "code": "54",
+        "name": "In Guezzam"
+      },
+      {
+        "code": "55",
+        "name": "Touggourt"
+      },
+      {
+        "code": "56",
+        "name": "Djanet"
+      },
+      {
+        "code": "57",
+        "name": "El M'Ghair"
+      },
+      {
+        "code": "58",
+        "name": "El Meniaa"
+      },
+      {
+        "code": "59",
+        "name": "Aflou"
+      },
+      {
+        "code": "60",
+        "name": "Barika"
+      },
+      {
+        "code": "61",
+        "name": "Ksar Chellala"
+      },
+      {
+        "code": "62",
+        "name": "Messaad"
+      },
+      {
+        "code": "63",
+        "name": "Ain Oussara"
+      },
+      {
+        "code": "64",
+        "name": "Boussaada"
+      },
+      {
+        "code": "65",
+        "name": "El Abiodh Sidi Cheikh"
+      },
+      {
+        "code": "66",
+        "name": "El Kantara"
+      },
+      {
+        "code": "67",
+        "name": "Bir El Ater"
+      },
+      {
+        "code": "68",
+        "name": "Ksar El Boukhari"
+      },
+      {
+        "code": "69",
+        "name": "El Aricha"
+      }
+    ],
+    "communes": {
+      "01": [
+        {
+          "name": "Adrar",
+          "codePostal": "01000"
+        },
+        {
+          "name": "Tamest",
+          "codePostal": "01001"
+        },
+        {
+          "name": "Charouine",
+          "codePostal": "01002"
+        },
+        {
+          "name": "Reggane",
+          "codePostal": "01003"
+        },
+        {
+          "name": "In Zghmir",
+          "codePostal": "01004"
+        },
+        {
+          "name": "Tit",
+          "codePostal": "01005"
+        },
+        {
+          "name": "Ksar Kaddour",
+          "codePostal": "01006"
+        },
+        {
+          "name": "Tsabit",
+          "codePostal": "01007"
+        },
+        {
+          "name": "Timimoun",
+          "codePostal": "01008"
+        },
+        {
+          "name": "Ouled Said",
+          "codePostal": "01009"
+        },
+        {
+          "name": "Zaouiet Kounta",
+          "codePostal": "01010"
+        },
+        {
+          "name": "Aoulef",
+          "codePostal": "01011"
+        },
+        {
+          "name": "Timokten",
+          "codePostal": "01012"
+        },
+        {
+          "name": "Tamentit",
+          "codePostal": "01013"
+        },
+        {
+          "name": "Fenoughil",
+          "codePostal": "01014"
+        },
+        {
+          "name": "Tinerkouk",
+          "codePostal": "01015"
+        },
+        {
+          "name": "Deldoul",
+          "codePostal": "01016"
+        },
+        {
+          "name": "Sali",
+          "codePostal": "01017"
+        },
+        {
+          "name": "Akabli",
+          "codePostal": "01018"
+        },
+        {
+          "name": "Metarfa",
+          "codePostal": "01019"
+        },
+        {
+          "name": "Ouled Aissa",
+          "codePostal": "01020"
+        },
+        {
+          "name": "Timiaouine",
+          "codePostal": "01021"
+        }
+      ],
+      "02": [
+        {
+          "name": "Chlef",
+          "codePostal": "02000"
+        },
+        {
+          "name": "Tenes",
+          "codePostal": "02001"
+        },
+        {
+          "name": "Benairia",
+          "codePostal": "02002"
+        },
+        {
+          "name": "El Karimia",
+          "codePostal": "02003"
+        },
+        {
+          "name": "Tadjna",
+          "codePostal": "02004"
+        },
+        {
+          "name": "Taougrite",
+          "codePostal": "02005"
+        },
+        {
+          "name": "Beni Haoua",
+          "codePostal": "02006"
+        },
+        {
+          "name": "Sobha",
+          "codePostal": "02007"
+        },
+        {
+          "name": "Harchoun",
+          "codePostal": "02008"
+        },
+        {
+          "name": "Ouled Fares",
+          "codePostal": "02009"
+        },
+        {
+          "name": "Sidi Akkacha",
+          "codePostal": "02010"
+        },
+        {
+          "name": "Boukadir",
+          "codePostal": "02011"
+        },
+        {
+          "name": "Beni Rached",
+          "codePostal": "02012"
+        },
+        {
+          "name": "Talassa",
+          "codePostal": "02013"
+        },
+        {
+          "name": "Herenfa",
+          "codePostal": "02014"
+        },
+        {
+          "name": "Oued Goussine",
+          "codePostal": "02015"
+        },
+        {
+          "name": "Dahra",
+          "codePostal": "02016"
+        },
+        {
+          "name": "Oued Sly",
+          "codePostal": "02017"
+        },
+        {
+          "name": "Abou El Hassen",
+          "codePostal": "02018"
+        },
+        {
+          "name": "El Marsa",
+          "codePostal": "02019"
+        },
+        {
+          "name": "Chettia",
+          "codePostal": "02020"
+        },
+        {
+          "name": "Sidi Abderrahmane",
+          "codePostal": "02021"
+        },
+        {
+          "name": "Moussadek",
+          "codePostal": "02022"
+        },
+        {
+          "name": "El Hadjadj",
+          "codePostal": "02023"
+        },
+        {
+          "name": "Labiod Medjadja",
+          "codePostal": "02024"
+        },
+        {
+          "name": "Oued Fodda",
+          "codePostal": "02025"
+        },
+        {
+          "name": "Ouled Ben Abdelkader",
+          "codePostal": "02026"
+        },
+        {
+          "name": "Zeboudja",
+          "codePostal": "02027"
+        }
+      ],
+      "03": [
+        {
+          "name": "Laghouat",
+          "codePostal": "03000"
+        },
+        {
+          "name": "Ksar El Hirane",
+          "codePostal": "03001"
+        },
+        {
+          "name": "Benacer Benchohra",
+          "codePostal": "03002"
+        },
+        {
+          "name": "Sidi Makhlouf",
+          "codePostal": "03003"
+        },
+        {
+          "name": "Hassi Delaa",
+          "codePostal": "03004"
+        },
+        {
+          "name": "Hassi R'Mel",
+          "codePostal": "03005"
+        },
+        {
+          "name": "Ain Madhi",
+          "codePostal": "03006"
+        },
+        {
+          "name": "Tadjemout",
+          "codePostal": "03007"
+        },
+        {
+          "name": "Kheneg",
+          "codePostal": "03008"
+        },
+        {
+          "name": "Gueltat Sidi Saad",
+          "codePostal": "03009"
+        },
+        {
+          "name": "Ain Sidi Ali",
+          "codePostal": "03010"
+        },
+        {
+          "name": "Tadjrouna",
+          "codePostal": "03011"
+        },
+        {
+          "name": "Sebgag",
+          "codePostal": "03012"
+        },
+        {
+          "name": "Brida",
+          "codePostal": "03013"
+        },
+        {
+          "name": "El Ghicha",
+          "codePostal": "03014"
+        },
+        {
+          "name": "Hadj Mechri",
+          "codePostal": "03015"
+        },
+        {
+          "name": "Aflou",
+          "codePostal": "03016"
+        },
+        {
+          "name": "Ain El Ibel",
+          "codePostal": "03017"
+        },
+        {
+          "name": "Oued Morra",
+          "codePostal": "03018"
+        },
+        {
+          "name": "Oued M'Zi",
+          "codePostal": "03019"
+        },
+        {
+          "name": "El Haouaita",
+          "codePostal": "03020"
+        },
+        {
+          "name": "Taouiala",
+          "codePostal": "03021"
+        },
+        {
+          "name": "Sidi Bouzid",
+          "codePostal": "03022"
+        },
+        {
+          "name": "Tamalous",
+          "codePostal": "03023"
+        }
+      ],
+      "04": [
+        {
+          "name": "Oum El Bouaghi",
+          "codePostal": "04000"
+        },
+        {
+          "name": "Ain Beida",
+          "codePostal": "04001"
+        },
+        {
+          "name": "Ain M'Lila",
+          "codePostal": "04002"
+        },
+        {
+          "name": "El Amiria",
+          "codePostal": "04003"
+        },
+        {
+          "name": "Sigus",
+          "codePostal": "04004"
+        },
+        {
+          "name": "Ain Babouche",
+          "codePostal": "04005"
+        },
+        {
+          "name": "Behir Chergui",
+          "codePostal": "04006"
+        },
+        {
+          "name": "Ksar Sbahi",
+          "codePostal": "04007"
+        },
+        {
+          "name": "Hanchir Toumghani",
+          "codePostal": "04008"
+        },
+        {
+          "name": "El Djazia",
+          "codePostal": "04009"
+        },
+        {
+          "name": "Souk Naamane",
+          "codePostal": "04010"
+        },
+        {
+          "name": "Zorg",
+          "codePostal": "04011"
+        },
+        {
+          "name": "El Fedjoudj Boughrara Saoudi",
+          "codePostal": "04012"
+        },
+        {
+          "name": "Ouled Hamla",
+          "codePostal": "04013"
+        },
+        {
+          "name": "Bir Chouhada",
+          "codePostal": "04014"
+        },
+        {
+          "name": "Ain Zitoun",
+          "codePostal": "04015"
+        },
+        {
+          "name": "Ouled Gacem",
+          "codePostal": "04016"
+        },
+        {
+          "name": "El Harmilia",
+          "codePostal": "04017"
+        }
+      ],
+      "05": [
+        {
+          "name": "Batna",
+          "codePostal": "05000"
+        },
+        {
+          "name": "Ghassira",
+          "codePostal": "05001"
+        },
+        {
+          "name": "Maafa",
+          "codePostal": "05002"
+        },
+        {
+          "name": "Merouana",
+          "codePostal": "05003"
+        },
+        {
+          "name": "Seriana",
+          "codePostal": "05004"
+        },
+        {
+          "name": "Menaa",
+          "codePostal": "05005"
+        },
+        {
+          "name": "El Madher",
+          "codePostal": "05006"
+        },
+        {
+          "name": "Tazoult",
+          "codePostal": "05007"
+        },
+        {
+          "name": "N'gaous",
+          "codePostal": "05008"
+        },
+        {
+          "name": "Guigba",
+          "codePostal": "05009"
+        },
+        {
+          "name": "Inoughissen",
+          "codePostal": "05010"
+        },
+        {
+          "name": "Ouyoun El Assafir",
+          "codePostal": "05011"
+        },
+        {
+          "name": "Djerma",
+          "codePostal": "05012"
+        },
+        {
+          "name": "Bitam",
+          "codePostal": "05013"
+        },
+        {
+          "name": "Timgad",
+          "codePostal": "05014"
+        },
+        {
+          "name": "Ras El Aioun",
+          "codePostal": "05015"
+        },
+        {
+          "name": "Chemora",
+          "codePostal": "05016"
+        },
+        {
+          "name": "Oued El Ma",
+          "codePostal": "05017"
+        },
+        {
+          "name": "Djezzar",
+          "codePostal": "05018"
+        },
+        {
+          "name": "Ain Touta",
+          "codePostal": "05019"
+        },
+        {
+          "name": "Hidoussa",
+          "codePostal": "05020"
+        },
+        {
+          "name": "Arris",
+          "codePostal": "05021"
+        },
+        {
+          "name": "Ain Djasser",
+          "codePostal": "05022"
+        },
+        {
+          "name": "Ouled Sellam",
+          "codePostal": "05023"
+        },
+        {
+          "name": "Tigherghar",
+          "codePostal": "05024"
+        },
+        {
+          "name": "Ain Yagout",
+          "codePostal": "05025"
+        },
+        {
+          "name": "Fesdis",
+          "codePostal": "05026"
+        },
+        {
+          "name": "Sefiane",
+          "codePostal": "05027"
+        },
+        {
+          "name": "El Hassi",
+          "codePostal": "05028"
+        },
+        {
+          "name": "Lazrou",
+          "codePostal": "05029"
+        },
+        {
+          "name": "Tkout",
+          "codePostal": "05030"
+        },
+        {
+          "name": "Ain Peur",
+          "codePostal": "05031"
+        },
+        {
+          "name": "Ouled Fadel",
+          "codePostal": "05032"
+        },
+        {
+          "name": "Boumagueur",
+          "codePostal": "05033"
+        },
+        {
+          "name": "Barika",
+          "codePostal": "05034"
+        },
+        {
+          "name": "Boulhilat",
+          "codePostal": "05035"
+        },
+        {
+          "name": "Lemsane",
+          "codePostal": "05036"
+        },
+        {
+          "name": "Ksar Bellezma",
+          "codePostal": "05037"
+        },
+        {
+          "name": "Seggana",
+          "codePostal": "05038"
+        },
+        {
+          "name": "Ichmoul",
+          "codePostal": "05039"
+        },
+        {
+          "name": "Foum Toub",
+          "codePostal": "05040"
+        },
+        {
+          "name": "Beni Foudhala El Hakania",
+          "codePostal": "05041"
+        },
+        {
+          "name": "Oued Chaaba",
+          "codePostal": "05042"
+        },
+        {
+          "name": "Taxlent",
+          "codePostal": "05043"
+        },
+        {
+          "name": "Gosbat",
+          "codePostal": "05044"
+        },
+        {
+          "name": "Ouled Ammar",
+          "codePostal": "05045"
+        },
+        {
+          "name": "El Djorf",
+          "codePostal": "05046"
+        },
+        {
+          "name": "Medina",
+          "codePostal": "05047"
+        },
+        {
+          "name": "Bouzina",
+          "codePostal": "05048"
+        },
+        {
+          "name": "Chir",
+          "codePostal": "05049"
+        },
+        {
+          "name": "Ouled Si Slimane",
+          "codePostal": "05050"
+        },
+        {
+          "name": "Zanat El Beida",
+          "codePostal": "05051"
+        },
+        {
+          "name": "M'Doukel",
+          "codePostal": "05052"
+        },
+        {
+          "name": "Talkhamt",
+          "codePostal": "05053"
+        },
+        {
+          "name": "Larbaa",
+          "codePostal": "05054"
+        },
+        {
+          "name": "Tighanimine",
+          "codePostal": "05055"
+        },
+        {
+          "name": "El Korchi",
+          "codePostal": "05056"
+        },
+        {
+          "name": "Oued Taga",
+          "codePostal": "05057"
+        },
+        {
+          "name": "Abdelkader Azil",
+          "codePostal": "05058"
+        },
+        {
+          "name": "Boumia",
+          "codePostal": "05059"
+        },
+        {
+          "name": "Ain Roua",
+          "codePostal": "05060"
+        }
+      ],
+      "06": [
+        {
+          "name": "Bejaia",
+          "codePostal": "06000"
+        },
+        {
+          "name": "Amizour",
+          "codePostal": "06001"
+        },
+        {
+          "name": "Ferraoun",
+          "codePostal": "06002"
+        },
+        {
+          "name": "Taourirt Ighil",
+          "codePostal": "06003"
+        },
+        {
+          "name": "Chellata",
+          "codePostal": "06004"
+        },
+        {
+          "name": "Tamokra",
+          "codePostal": "06005"
+        },
+        {
+          "name": "Timezrit",
+          "codePostal": "06006"
+        },
+        {
+          "name": "Souk El Tenine",
+          "codePostal": "06007"
+        },
+        {
+          "name": "El Flaye",
+          "codePostal": "06008"
+        },
+        {
+          "name": "Melbou",
+          "codePostal": "06009"
+        },
+        {
+          "name": "Akbou",
+          "codePostal": "06010"
+        },
+        {
+          "name": "Ighram",
+          "codePostal": "06011"
+        },
+        {
+          "name": "Amalou",
+          "codePostal": "06012"
+        },
+        {
+          "name": "Ighil Ali",
+          "codePostal": "06013"
+        },
+        {
+          "name": "Feraoun",
+          "codePostal": "06014"
+        },
+        {
+          "name": "Tizi N'Berber",
+          "codePostal": "06015"
+        },
+        {
+          "name": "Beni Maouche",
+          "codePostal": "06016"
+        },
+        {
+          "name": "Aokas",
+          "codePostal": "06017"
+        },
+        {
+          "name": "Tala Hamza",
+          "codePostal": "06018"
+        },
+        {
+          "name": "Darguina",
+          "codePostal": "06019"
+        },
+        {
+          "name": "Sidi Aich",
+          "codePostal": "06020"
+        },
+        {
+          "name": "El Kseur",
+          "codePostal": "06021"
+        },
+        {
+          "name": "Bidon",
+          "codePostal": "06022"
+        },
+        {
+          "name": "Tibane",
+          "codePostal": "06023"
+        },
+        {
+          "name": "Tifra",
+          "codePostal": "06024"
+        },
+        {
+          "name": "Adekar",
+          "codePostal": "06025"
+        },
+        {
+          "name": "Akfadou",
+          "codePostal": "06026"
+        },
+        {
+          "name": "Leflaye",
+          "codePostal": "06027"
+        },
+        {
+          "name": "Kherrata",
+          "codePostal": "06028"
+        },
+        {
+          "name": "Draa El Kaid",
+          "codePostal": "06029"
+        },
+        {
+          "name": "Chemini",
+          "codePostal": "06030"
+        },
+        {
+          "name": "Souk Oufella",
+          "codePostal": "06031"
+        },
+        {
+          "name": "Taskriout",
+          "codePostal": "06032"
+        },
+        {
+          "name": "Tibchi",
+          "codePostal": "06033"
+        },
+        {
+          "name": "Barbacha",
+          "codePostal": "06034"
+        },
+        {
+          "name": "Beni Ksila",
+          "codePostal": "06035"
+        },
+        {
+          "name": "Oued Ghir",
+          "codePostal": "06036"
+        },
+        {
+          "name": "Bouhamza",
+          "codePostal": "06037"
+        },
+        {
+          "name": "Ain Sidi Aiche",
+          "codePostal": "06038"
+        },
+        {
+          "name": "Tinebdar",
+          "codePostal": "06039"
+        },
+        {
+          "name": "Seddouk",
+          "codePostal": "06040"
+        },
+        {
+          "name": "Tazmalt",
+          "codePostal": "06041"
+        },
+        {
+          "name": "Ait Smail",
+          "codePostal": "06042"
+        },
+        {
+          "name": "Boudjellil",
+          "codePostal": "06043"
+        },
+        {
+          "name": "Beni Djellil",
+          "codePostal": "06044"
+        },
+        {
+          "name": "Fenaia Ilmaten",
+          "codePostal": "06045"
+        },
+        {
+          "name": "Toudja",
+          "codePostal": "06046"
+        },
+        {
+          "name": "Draah Ben Khedda",
+          "codePostal": "06047"
+        },
+        {
+          "name": "Oued Dahmane",
+          "codePostal": "06048"
+        },
+        {
+          "name": "Ait Rizine",
+          "codePostal": "06049"
+        },
+        {
+          "name": "Chorfa",
+          "codePostal": "06050"
+        },
+        {
+          "name": "Fenaia Ilmaten",
+          "codePostal": "06051"
+        },
+        {
+          "name": "Beni Melikeche",
+          "codePostal": "06052"
+        }
+      ],
+      "07": [
+        {
+          "name": "Biskra",
+          "codePostal": "07000"
+        },
+        {
+          "name": "Oumache",
+          "codePostal": "07001"
+        },
+        {
+          "name": "Branis",
+          "codePostal": "07002"
+        },
+        {
+          "name": "El Kantara",
+          "codePostal": "07003"
+        },
+        {
+          "name": "Sidi Okba",
+          "codePostal": "07004"
+        },
+        {
+          "name": "Ain Naga",
+          "codePostal": "07005"
+        },
+        {
+          "name": "Zeribet El Oued",
+          "codePostal": "07006"
+        },
+        {
+          "name": "El Feidh",
+          "codePostal": "07007"
+        },
+        {
+          "name": "Djemorah",
+          "codePostal": "07008"
+        },
+        {
+          "name": "Chetma",
+          "codePostal": "07009"
+        },
+        {
+          "name": "El Haouch",
+          "codePostal": "07010"
+        },
+        {
+          "name": "Tolga",
+          "codePostal": "07011"
+        },
+        {
+          "name": "Bouchagroun",
+          "codePostal": "07012"
+        },
+        {
+          "name": "M'Chounech",
+          "codePostal": "07013"
+        },
+        {
+          "name": "El Fesguia",
+          "codePostal": "07014"
+        },
+        {
+          "name": "Ouled Djellal",
+          "codePostal": "07015"
+        },
+        {
+          "name": "Sidi Khaled",
+          "codePostal": "07016"
+        },
+        {
+          "name": "Doucen",
+          "codePostal": "07017"
+        },
+        {
+          "name": "El Ghrous",
+          "codePostal": "07018"
+        },
+        {
+          "name": "Foughala",
+          "codePostal": "07019"
+        },
+        {
+          "name": "Ras El Miad",
+          "codePostal": "07020"
+        },
+        {
+          "name": "Bordj Ben Azzouz",
+          "codePostal": "07021"
+        },
+        {
+          "name": "Lioua",
+          "codePostal": "07022"
+        },
+        {
+          "name": "Lichana",
+          "codePostal": "07023"
+        },
+        {
+          "name": "Besbes",
+          "codePostal": "07024"
+        },
+        {
+          "name": "Meziraa",
+          "codePostal": "07025"
+        },
+        {
+          "name": "Chaiba",
+          "codePostal": "07026"
+        },
+        {
+          "name": "Ain Zaatout",
+          "codePostal": "07027"
+        },
+        {
+          "name": "El Ouedki",
+          "codePostal": "07028"
+        },
+        {
+          "name": "Ourlal",
+          "codePostal": "07029"
+        },
+        {
+          "name": "M'Ziraa",
+          "codePostal": "07030"
+        },
+        {
+          "name": "Beni Fetah",
+          "codePostal": "07031"
+        },
+        {
+          "name": "Khanguet Sidi Nadji",
+          "codePostal": "07032"
+        },
+        {
+          "name": "Ain Ben Noui",
+          "codePostal": "07033"
+        }
+      ],
+      "08": [
+        {
+          "name": "Bechar",
+          "codePostal": "08000"
+        },
+        {
+          "name": "Erg Ferradj",
+          "codePostal": "08001"
+        },
+        {
+          "name": "Lahmar",
+          "codePostal": "08002"
+        },
+        {
+          "name": "Beni Ounif",
+          "codePostal": "08003"
+        },
+        {
+          "name": "Beni Ikhlef",
+          "codePostal": "08004"
+        },
+        {
+          "name": "Meridja",
+          "codePostal": "08005"
+        },
+        {
+          "name": "Timoudi",
+          "codePostal": "08006"
+        },
+        {
+          "name": "Igli",
+          "codePostal": "08007"
+        },
+        {
+          "name": "Boukais",
+          "codePostal": "08008"
+        },
+        {
+          "name": "Kerzaz",
+          "codePostal": "08009"
+        },
+        {
+          "name": "Meniaa",
+          "codePostal": "08010"
+        },
+        {
+          "name": "Tamtert",
+          "codePostal": "08011"
+        },
+        {
+          "name": "Tabalbala",
+          "codePostal": "08012"
+        },
+        {
+          "name": "El Ouata",
+          "codePostal": "08013"
+        },
+        {
+          "name": "Taghit",
+          "codePostal": "08014"
+        },
+        {
+          "name": "Abadla",
+          "codePostal": "08015"
+        },
+        {
+          "name": "Ksabi",
+          "codePostal": "08016"
+        },
+        {
+          "name": "Mogheul",
+          "codePostal": "08017"
+        },
+        {
+          "name": "Ouled Khodeir",
+          "codePostal": "08018"
+        }
+      ],
+      "09": [
+        {
+          "name": "Blida",
+          "codePostal": "09000"
+        },
+        {
+          "name": "Chrea",
+          "codePostal": "09001"
+        },
+        {
+          "name": "El Affroun",
+          "codePostal": "09002"
+        },
+        {
+          "name": "Chebli",
+          "codePostal": "09003"
+        },
+        {
+          "name": "Meftah",
+          "codePostal": "09004"
+        },
+        {
+          "name": "Larbaa",
+          "codePostal": "09005"
+        },
+        {
+          "name": "Ouled Yaich",
+          "codePostal": "09006"
+        },
+        {
+          "name": "Oued Alleug",
+          "codePostal": "09007"
+        },
+        {
+          "name": "El Azizia",
+          "codePostal": "09008"
+        },
+        {
+          "name": "Ben Khellil",
+          "codePostal": "09009"
+        },
+        {
+          "name": "Soumaa",
+          "codePostal": "09010"
+        },
+        {
+          "name": "Bouinan",
+          "codePostal": "09011"
+        },
+        {
+          "name": "Oued Djer",
+          "codePostal": "09012"
+        },
+        {
+          "name": "Beni Tamou",
+          "codePostal": "09013"
+        },
+        {
+          "name": "Boufarik",
+          "codePostal": "09014"
+        },
+        {
+          "name": "Beni Mered",
+          "codePostal": "09015"
+        },
+        {
+          "name": "Bougara",
+          "codePostal": "09016"
+        },
+        {
+          "name": "Guerrouaou",
+          "codePostal": "09017"
+        },
+        {
+          "name": "Ain Romana",
+          "codePostal": "09018"
+        },
+        {
+          "name": "Djebabra",
+          "codePostal": "09019"
+        }
+      ],
+      "10": [
+        {
+          "name": "Bouira",
+          "codePostal": "10000"
+        },
+        {
+          "name": "El Asnam",
+          "codePostal": "10001"
+        },
+        {
+          "name": "Guerrouma",
+          "codePostal": "10002"
+        },
+        {
+          "name": "Kadiria",
+          "codePostal": "10003"
+        },
+        {
+          "name": "Souk El Khemis",
+          "codePostal": "10004"
+        },
+        {
+          "name": "El Hachimia",
+          "codePostal": "10005"
+        },
+        {
+          "name": "Haizer",
+          "codePostal": "10006"
+        },
+        {
+          "name": "Lakhdaria",
+          "codePostal": "10007"
+        },
+        {
+          "name": "Sour El Ghouzlane",
+          "codePostal": "10008"
+        },
+        {
+          "name": "M'Chedallah",
+          "codePostal": "10009"
+        },
+        {
+          "name": "Beni Mansour",
+          "codePostal": "10010"
+        },
+        {
+          "name": "El Mokrani",
+          "codePostal": "10011"
+        },
+        {
+          "name": "Chorfa",
+          "codePostal": "10012"
+        },
+        {
+          "name": "Ain El Hadjar",
+          "codePostal": "10013"
+        },
+        {
+          "name": "Djebahia",
+          "codePostal": "10014"
+        },
+        {
+          "name": "Ain Bessem",
+          "codePostal": "10015"
+        },
+        {
+          "name": "Ain El Turc",
+          "codePostal": "10016"
+        },
+        {
+          "name": "Bordj Okhriss",
+          "codePostal": "10017"
+        },
+        {
+          "name": "El Adjiba",
+          "codePostal": "10018"
+        },
+        {
+          "name": "El Asnam",
+          "codePostal": "10019"
+        },
+        {
+          "name": "Ridane",
+          "codePostal": "10020"
+        },
+        {
+          "name": "Hadjera Zerga",
+          "codePostal": "10021"
+        },
+        {
+          "name": "Bechloul",
+          "codePostal": "10022"
+        },
+        {
+          "name": "Bouderbala",
+          "codePostal": "10023"
+        },
+        {
+          "name": "Dirah",
+          "codePostal": "10024"
+        },
+        {
+          "name": "Ain Laloui",
+          "codePostal": "10025"
+        },
+        {
+          "name": "Ait Laaziz",
+          "codePostal": "10026"
+        },
+        {
+          "name": "Taghzout",
+          "codePostal": "10027"
+        },
+        {
+          "name": "Maamora",
+          "codePostal": "10028"
+        },
+        {
+          "name": "Taguedit",
+          "codePostal": "10029"
+        },
+        {
+          "name": "Dechmia",
+          "codePostal": "10030"
+        },
+        {
+          "name": "Raouraoua",
+          "codePostal": "10031"
+        },
+        {
+          "name": "Maala",
+          "codePostal": "10032"
+        },
+        {
+          "name": "Ouled Rached",
+          "codePostal": "10033"
+        },
+        {
+          "name": "Zbarbar",
+          "codePostal": "10034"
+        },
+        {
+          "name": "Aghbalou",
+          "codePostal": "10035"
+        },
+        {
+          "name": "El Khebaza",
+          "codePostal": "10036"
+        },
+        {
+          "name": "Ait Laaziz",
+          "codePostal": "10037"
+        },
+        {
+          "name": "Saharidj",
+          "codePostal": "10038"
+        },
+        {
+          "name": "Aomar",
+          "codePostal": "10039"
+        },
+        {
+          "name": "Ath Mansour",
+          "codePostal": "10040"
+        },
+        {
+          "name": "Aghbalou",
+          "codePostal": "10041"
+        },
+        {
+          "name": "Bir Ghbalou",
+          "codePostal": "10042"
+        },
+        {
+          "name": "Raffour",
+          "codePostal": "10043"
+        },
+        {
+          "name": "Ahnif",
+          "codePostal": "10044"
+        },
+        {
+          "name": "Oued El Berdi",
+          "codePostal": "10045"
+        }
+      ],
+      "11": [
+        {
+          "name": "Tamanrasset",
+          "codePostal": "11000"
+        },
+        {
+          "name": "Abalessa",
+          "codePostal": "11001"
+        },
+        {
+          "name": "In Ghar",
+          "codePostal": "11002"
+        },
+        {
+          "name": "In Guezzam",
+          "codePostal": "11003"
+        },
+        {
+          "name": "Tazrouk",
+          "codePostal": "11004"
+        },
+        {
+          "name": "Tin Zaouatine",
+          "codePostal": "11005"
+        },
+        {
+          "name": "Foggaret Ezzaouia",
+          "codePostal": "11006"
+        },
+        {
+          "name": "Ideles",
+          "codePostal": "11007"
+        },
+        {
+          "name": "Iherir",
+          "codePostal": "11008"
+        },
+        {
+          "name": "Tahifet",
+          "codePostal": "11009"
+        }
+      ],
+      "12": [
+        {
+          "name": "Tebessa",
+          "codePostal": "12000"
+        },
+        {
+          "name": "Morsen",
+          "codePostal": "12001"
+        },
+        {
+          "name": "Bir Mokkadem",
+          "codePostal": "12002"
+        },
+        {
+          "name": "El Ogla",
+          "codePostal": "12003"
+        },
+        {
+          "name": "Bir El Ater",
+          "codePostal": "12004"
+        },
+        {
+          "name": "Cheria",
+          "codePostal": "12005"
+        },
+        {
+          "name": "Bekkaria",
+          "codePostal": "12006"
+        },
+        {
+          "name": "Boulhaf Dyr",
+          "codePostal": "12007"
+        },
+        {
+          "name": "Bir Dhab",
+          "codePostal": "12008"
+        },
+        {
+          "name": "Safsaf El Ouesra",
+          "codePostal": "12009"
+        },
+        {
+          "name": "Negrine",
+          "codePostal": "12010"
+        },
+        {
+          "name": "El Ogla El Malha",
+          "codePostal": "12011"
+        },
+        {
+          "name": "Ouenza",
+          "codePostal": "12012"
+        },
+        {
+          "name": "El Hammamet",
+          "codePostal": "12013"
+        },
+        {
+          "name": "El Houidjbet",
+          "codePostal": "12014"
+        },
+        {
+          "name": "El Ma Labiodh",
+          "codePostal": "12015"
+        },
+        {
+          "name": "Bir Mokadem",
+          "codePostal": "12016"
+        },
+        {
+          "name": "Ferkane",
+          "codePostal": "12017"
+        },
+        {
+          "name": "Ain Zerga",
+          "codePostal": "12018"
+        },
+        {
+          "name": "El Kouif",
+          "codePostal": "12019"
+        }
+      ],
+      "13": [
+        {
+          "name": "Tlemcen",
+          "codePostal": "13000"
+        },
+        {
+          "name": "Beni Mester",
+          "codePostal": "13001"
+        },
+        {
+          "name": "Ain Tallout",
+          "codePostal": "13002"
+        },
+        {
+          "name": "Remchi",
+          "codePostal": "13003"
+        },
+        {
+          "name": "El Fehoul",
+          "codePostal": "13004"
+        },
+        {
+          "name": "Sabra",
+          "codePostal": "13005"
+        },
+        {
+          "name": "Ghazaouet",
+          "codePostal": "13006"
+        },
+        {
+          "name": "Souk Tleta",
+          "codePostal": "13007"
+        },
+        {
+          "name": "Nedroma",
+          "codePostal": "13008"
+        },
+        {
+          "name": "Honaiene",
+          "codePostal": "13009"
+        },
+        {
+          "name": "Beni Khellad",
+          "codePostal": "13010"
+        },
+        {
+          "name": "Ouled Mimoun",
+          "codePostal": "13011"
+        },
+        {
+          "name": "Ain Fezza",
+          "codePostal": "13012"
+        },
+        {
+          "name": "Dar Yaghmouracene",
+          "codePostal": "13013"
+        },
+        {
+          "name": "Beni Snous",
+          "codePostal": "13014"
+        },
+        {
+          "name": "Bab El Assa",
+          "codePostal": "13015"
+        },
+        {
+          "name": "Ain Ghoraba",
+          "codePostal": "13016"
+        },
+        {
+          "name": "Chetouane",
+          "codePostal": "13017"
+        },
+        {
+          "name": "Mansourah",
+          "codePostal": "13018"
+        },
+        {
+          "name": "Sidi Abdelli",
+          "codePostal": "13019"
+        },
+        {
+          "name": "Azails",
+          "codePostal": "13020"
+        },
+        {
+          "name": "Terny Beni Hdiel",
+          "codePostal": "13021"
+        },
+        {
+          "name": "Bensekrane",
+          "codePostal": "13022"
+        },
+        {
+          "name": "Ain Youcef",
+          "codePostal": "13023"
+        },
+        {
+          "name": "Ain Kebira",
+          "codePostal": "13024"
+        },
+        {
+          "name": "Ain Nehala",
+          "codePostal": "13025"
+        },
+        {
+          "name": "Hammam Boughrara",
+          "codePostal": "13026"
+        },
+        {
+          "name": "Sebdou",
+          "codePostal": "13027"
+        },
+        {
+          "name": "Beni Boussaid",
+          "codePostal": "13028"
+        },
+        {
+          "name": "Marsa Ben Mhidi",
+          "codePostal": "13029"
+        },
+        {
+          "name": "Ouled Riyah",
+          "codePostal": "13030"
+        },
+        {
+          "name": "Souahlia",
+          "codePostal": "13031"
+        },
+        {
+          "name": "Msirda Fouaga",
+          "codePostal": "13032"
+        },
+        {
+          "name": "Ain Fetah",
+          "codePostal": "13033"
+        },
+        {
+          "name": "El Gor",
+          "codePostal": "13034"
+        },
+        {
+          "name": "Maghnia",
+          "codePostal": "13035"
+        },
+        {
+          "name": "Hammam Chekna",
+          "codePostal": "13036"
+        },
+        {
+          "name": "Tienet",
+          "codePostal": "13037"
+        },
+        {
+          "name": "Zenata",
+          "codePostal": "13038"
+        },
+        {
+          "name": "Sidi Medjahed",
+          "codePostal": "13039"
+        },
+        {
+          "name": "Beni Ouarsous",
+          "codePostal": "13040"
+        },
+        {
+          "name": "Sidi Mezghiche",
+          "codePostal": "13041"
+        },
+        {
+          "name": "Amieur",
+          "codePostal": "13042"
+        },
+        {
+          "name": "Ain Ghoraba",
+          "codePostal": "13043"
+        },
+        {
+          "name": "El Aricha",
+          "codePostal": "13044"
+        }
+      ],
+      "14": [
+        {
+          "name": "Tiaret",
+          "codePostal": "14000"
+        },
+        {
+          "name": "Ain Deheb",
+          "codePostal": "14001"
+        },
+        {
+          "name": "Medrissa",
+          "codePostal": "14002"
+        },
+        {
+          "name": "Mechraa Safa",
+          "codePostal": "14003"
+        },
+        {
+          "name": "Sidi Bakhti",
+          "codePostal": "14004"
+        },
+        {
+          "name": "Aghram",
+          "codePostal": "14005"
+        },
+        {
+          "name": "Oued Lilli",
+          "codePostal": "14006"
+        },
+        {
+          "name": "Mahia",
+          "codePostal": "14007"
+        },
+        {
+          "name": "Hamadia",
+          "codePostal": "14008"
+        },
+        {
+          "name": "Ain Kermes",
+          "codePostal": "14009"
+        },
+        {
+          "name": "Ksar Chellala",
+          "codePostal": "14010"
+        },
+        {
+          "name": "Guertoufa",
+          "codePostal": "14011"
+        },
+        {
+          "name": "Sidi Hosni",
+          "codePostal": "14012"
+        },
+        {
+          "name": "Dahmouni",
+          "codePostal": "14013"
+        },
+        {
+          "name": "Rahouia",
+          "codePostal": "14014"
+        },
+        {
+          "name": "Maaier",
+          "codePostal": "14015"
+        },
+        {
+          "name": "Tagdemt",
+          "codePostal": "14016"
+        },
+        {
+          "name": "Ain Bouchekif",
+          "codePostal": "14017"
+        },
+        {
+          "name": "Sidi Ali Mellal",
+          "codePostal": "14018"
+        },
+        {
+          "name": "Ain El Hadid",
+          "codePostal": "14019"
+        },
+        {
+          "name": "Sougueur",
+          "codePostal": "14020"
+        },
+        {
+          "name": "Sebaaine Ouled Tira",
+          "codePostal": "14021"
+        },
+        {
+          "name": "Chehida",
+          "codePostal": "14022"
+        },
+        {
+          "name": "Ain Zarit",
+          "codePostal": "14023"
+        },
+        {
+          "name": "Bougara",
+          "codePostal": "14024"
+        },
+        {
+          "name": "Zmalet El Emir Abdelkader",
+          "codePostal": "14025"
+        },
+        {
+          "name": "Si Abdelghani",
+          "codePostal": "14026"
+        },
+        {
+          "name": "Ain El Hadjel",
+          "codePostal": "14027"
+        },
+        {
+          "name": "Merine",
+          "codePostal": "14028"
+        },
+        {
+          "name": "Tousnina",
+          "codePostal": "14029"
+        },
+        {
+          "name": "Frenda",
+          "codePostal": "14030"
+        },
+        {
+          "name": "Naima",
+          "codePostal": "14031"
+        },
+        {
+          "name": "Rechaiga",
+          "codePostal": "14032"
+        },
+        {
+          "name": "Nador",
+          "codePostal": "14033"
+        },
+        {
+          "name": "Mellakou",
+          "codePostal": "14034"
+        },
+        {
+          "name": "Djebilet Rosfa",
+          "codePostal": "14035"
+        },
+        {
+          "name": "Gueitouna",
+          "codePostal": "14036"
+        },
+        {
+          "name": "Chehaida",
+          "codePostal": "14037"
+        },
+        {
+          "name": "Tidda",
+          "codePostal": "14038"
+        },
+        {
+          "name": "Ain Merane",
+          "codePostal": "14039"
+        },
+        {
+          "name": "Dhaya",
+          "codePostal": "14040"
+        },
+        {
+          "name": "Ain Dzarit",
+          "codePostal": "14041"
+        },
+        {
+          "name": "Beni Chaib",
+          "codePostal": "14042"
+        },
+        {
+          "name": "Serghine",
+          "codePostal": "14043"
+        }
+      ],
+      "15": [
+        {
+          "name": "Tizi Ouzou",
+          "codePostal": "15000"
+        },
+        {
+          "name": "Ain El Hammam",
+          "codePostal": "15001"
+        },
+        {
+          "name": "Akbil",
+          "codePostal": "15002"
+        },
+        {
+          "name": "Frikat",
+          "codePostal": "15003"
+        },
+        {
+          "name": "Beni Yenni",
+          "codePostal": "15004"
+        },
+        {
+          "name": "Tizi Rached",
+          "codePostal": "15005"
+        },
+        {
+          "name": "Zekri",
+          "codePostal": "15006"
+        },
+        {
+          "name": "Ouacifs",
+          "codePostal": "15007"
+        },
+        {
+          "name": "Iboudrarene",
+          "codePostal": "15008"
+        },
+        {
+          "name": "Imsouhel",
+          "codePostal": "15009"
+        },
+        {
+          "name": "Tigzirt",
+          "codePostal": "15010"
+        },
+        {
+          "name": "Draa El Mizan",
+          "codePostal": "15011"
+        },
+        {
+          "name": "Draa Ben Khedda",
+          "codePostal": "15012"
+        },
+        {
+          "name": "Boghni",
+          "codePostal": "15013"
+        },
+        {
+          "name": "Iferhounene",
+          "codePostal": "15014"
+        },
+        {
+          "name": "Larbaa Nath Irathen",
+          "codePostal": "15015"
+        },
+        {
+          "name": "Tizi Gheniff",
+          "codePostal": "15016"
+        },
+        {
+          "name": "Bounouh",
+          "codePostal": "15017"
+        },
+        {
+          "name": "Ait Agouacha",
+          "codePostal": "15018"
+        },
+        {
+          "name": "Dobhane",
+          "codePostal": "15019"
+        },
+        {
+          "name": "Abi Youcef",
+          "codePostal": "15020"
+        },
+        {
+          "name": "Beni Douala",
+          "codePostal": "15021"
+        },
+        {
+          "name": "Illilten",
+          "codePostal": "15022"
+        },
+        {
+          "name": "Bouzeguene",
+          "codePostal": "15023"
+        },
+        {
+          "name": "Idjeur",
+          "codePostal": "15024"
+        },
+        {
+          "name": "Mekla",
+          "codePostal": "15025"
+        },
+        {
+          "name": "Tizi Ouzou",
+          "codePostal": "15026"
+        },
+        {
+          "name": "Souamaa",
+          "codePostal": "15027"
+        },
+        {
+          "name": "Mechtrass",
+          "codePostal": "15028"
+        },
+        {
+          "name": "Ait Yahia",
+          "codePostal": "15029"
+        },
+        {
+          "name": "Ain Zaouia",
+          "codePostal": "15030"
+        },
+        {
+          "name": "Mkira",
+          "codePostal": "15031"
+        },
+        {
+          "name": "Ait Mahmoud",
+          "codePostal": "15032"
+        },
+        {
+          "name": "Makouda",
+          "codePostal": "15033"
+        },
+        {
+          "name": "Gdouel",
+          "codePostal": "15034"
+        },
+        {
+          "name": "Ouadhia",
+          "codePostal": "15035"
+        },
+        {
+          "name": "Azeffoun",
+          "codePostal": "15036"
+        },
+        {
+          "name": "Tidzer",
+          "codePostal": "15037"
+        },
+        {
+          "name": "Ait Boumahdi",
+          "codePostal": "15038"
+        },
+        {
+          "name": "Iflissen",
+          "codePostal": "15039"
+        },
+        {
+          "name": "Beni Zmenzer",
+          "codePostal": "15040"
+        },
+        {
+          "name": "Irdjen",
+          "codePostal": "15041"
+        },
+        {
+          "name": "Taddart",
+          "codePostal": "15042"
+        },
+        {
+          "name": "Ain Ghilene",
+          "codePostal": "15043"
+        },
+        {
+          "name": "Semaoune",
+          "codePostal": "15044"
+        },
+        {
+          "name": "Ouaguenoun",
+          "codePostal": "15045"
+        },
+        {
+          "name": "Ait Yahia Moussa",
+          "codePostal": "15046"
+        },
+        {
+          "name": "Ait Khelili",
+          "codePostal": "15047"
+        },
+        {
+          "name": "Akerrou",
+          "codePostal": "15048"
+        },
+        {
+          "name": "Timizart",
+          "codePostal": "15049"
+        },
+        {
+          "name": "Mizrana",
+          "codePostal": "15050"
+        },
+        {
+          "name": "Freha",
+          "codePostal": "15051"
+        },
+        {
+          "name": "Sidi Naamane",
+          "codePostal": "15052"
+        },
+        {
+          "name": "Ait Oumalou",
+          "codePostal": "15053"
+        },
+        {
+          "name": "Tizi N'tleta",
+          "codePostal": "15054"
+        },
+        {
+          "name": "Ait Bouaddou",
+          "codePostal": "15055"
+        },
+        {
+          "name": "Aghrib",
+          "codePostal": "15056"
+        },
+        {
+          "name": "Ifigha",
+          "codePostal": "15057"
+        },
+        {
+          "name": "Ait Aissa Mimoun",
+          "codePostal": "15058"
+        },
+        {
+          "name": "Yatafen",
+          "codePostal": "15059"
+        },
+        {
+          "name": "Beni Aissi",
+          "codePostal": "15060"
+        },
+        {
+          "name": "Beni Zikki",
+          "codePostal": "15061"
+        },
+        {
+          "name": "Beni Ouassif",
+          "codePostal": "15062"
+        },
+        {
+          "name": "Assif El Hammam",
+          "codePostal": "15063"
+        }
+      ],
+      "16": [
+        {
+          "name": "Alger Centre",
+          "codePostal": "16000"
+        },
+        {
+          "name": "Sidi M'Hamed",
+          "codePostal": "16001"
+        },
+        {
+          "name": "El Madania",
+          "codePostal": "16002"
+        },
+        {
+          "name": "Belouizdad",
+          "codePostal": "16003"
+        },
+        {
+          "name": "Bab El Oued",
+          "codePostal": "16004"
+        },
+        {
+          "name": "Bologhine",
+          "codePostal": "16005"
+        },
+        {
+          "name": "Casbah",
+          "codePostal": "16006"
+        },
+        {
+          "name": "Oued Koriche",
+          "codePostal": "16007"
+        },
+        {
+          "name": "Birmandreis",
+          "codePostal": "16008"
+        },
+        {
+          "name": "El Harrach",
+          "codePostal": "16009"
+        },
+        {
+          "name": "Baraki",
+          "codePostal": "16010"
+        },
+        {
+          "name": "Oued Smar",
+          "codePostal": "16011"
+        },
+        {
+          "name": "Bachdjerrah",
+          "codePostal": "16012"
+        },
+        {
+          "name": "Hussein Dey",
+          "codePostal": "16013"
+        },
+        {
+          "name": "Kouba",
+          "codePostal": "16014"
+        },
+        {
+          "name": "Bourouba",
+          "codePostal": "16015"
+        },
+        {
+          "name": "El Biar",
+          "codePostal": "16016"
+        },
+        {
+          "name": "Bouzareah",
+          "codePostal": "16017"
+        },
+        {
+          "name": "Birkhadem",
+          "codePostal": "16018"
+        },
+        {
+          "name": "El Achour",
+          "codePostal": "16019"
+        },
+        {
+          "name": "Draria",
+          "codePostal": "16020"
+        },
+        {
+          "name": "Douera",
+          "codePostal": "16021"
+        },
+        {
+          "name": "Baba Hassen",
+          "codePostal": "16022"
+        },
+        {
+          "name": "Khraicia",
+          "codePostal": "16023"
+        },
+        {
+          "name": "Saoula",
+          "codePostal": "16024"
+        },
+        {
+          "name": "Mahelma",
+          "codePostal": "16025"
+        },
+        {
+          "name": "Rahmania",
+          "codePostal": "16026"
+        },
+        {
+          "name": "Souidania",
+          "codePostal": "16027"
+        },
+        {
+          "name": "Cheraga",
+          "codePostal": "16028"
+        },
+        {
+          "name": "Ouled Fayet",
+          "codePostal": "16029"
+        },
+        {
+          "name": "El Marsa",
+          "codePostal": "16030"
+        },
+        {
+          "name": "Hammamet",
+          "codePostal": "16031"
+        },
+        {
+          "name": "Ain Benian",
+          "codePostal": "16032"
+        },
+        {
+          "name": "Staoueli",
+          "codePostal": "16033"
+        },
+        {
+          "name": "Zeralda",
+          "codePostal": "16034"
+        },
+        {
+          "name": "Mahelma",
+          "codePostal": "16035"
+        },
+        {
+          "name": "Ain Taya",
+          "codePostal": "16036"
+        },
+        {
+          "name": "Bordj El Bahri",
+          "codePostal": "16037"
+        },
+        {
+          "name": "El Marsa",
+          "codePostal": "16038"
+        },
+        {
+          "name": "Rouiba",
+          "codePostal": "16039"
+        },
+        {
+          "name": "Reghaia",
+          "codePostal": "16040"
+        },
+        {
+          "name": "Ain Taya",
+          "codePostal": "16041"
+        },
+        {
+          "name": "Bordj El Kiffan",
+          "codePostal": "16042"
+        },
+        {
+          "name": "El Magharia",
+          "codePostal": "16043"
+        },
+        {
+          "name": "Ben Aknoun",
+          "codePostal": "16044"
+        },
+        {
+          "name": "Delly Ibrahim",
+          "codePostal": "16045"
+        },
+        {
+          "name": "El Biar",
+          "codePostal": "16046"
+        },
+        {
+          "name": "Mohammadia",
+          "codePostal": "16047"
+        },
+        {
+          "name": "Dar El Beida",
+          "codePostal": "16048"
+        },
+        {
+          "name": "Oued Koriche",
+          "codePostal": "16049"
+        },
+        {
+          "name": "Ain El Hammam",
+          "codePostal": "16050"
+        },
+        {
+          "name": "Tessala El Merdja",
+          "codePostal": "16051"
+        },
+        {
+          "name": "Sidi Moussa",
+          "codePostal": "16052"
+        },
+        {
+          "name": "El Hamiz",
+          "codePostal": "16053"
+        },
+        {
+          "name": "Bouchaoui",
+          "codePostal": "16054"
+        },
+        {
+          "name": "Hydra",
+          "codePostal": "16055"
+        },
+        {
+          "name": "Birkhadem",
+          "codePostal": "16056"
+        },
+        {
+          "name": "El Mouradia",
+          "codePostal": "16057"
+        }
+      ],
+      "17": [
+        {
+          "name": "Djelfa",
+          "codePostal": "17000"
+        },
+        {
+          "name": "Moudjbara",
+          "codePostal": "17001"
+        },
+        {
+          "name": "El Idrissia",
+          "codePostal": "17002"
+        },
+        {
+          "name": "Birine",
+          "codePostal": "17003"
+        },
+        {
+          "name": "Ain Maabed",
+          "codePostal": "17004"
+        },
+        {
+          "name": "El Adla",
+          "codePostal": "17005"
+        },
+        {
+          "name": "Charef",
+          "codePostal": "17006"
+        },
+        {
+          "name": "Sidi Baizid",
+          "codePostal": "17007"
+        },
+        {
+          "name": "Ain El Ibel",
+          "codePostal": "17008"
+        },
+        {
+          "name": "Selmana",
+          "codePostal": "17009"
+        },
+        {
+          "name": "Ain Oussara",
+          "codePostal": "17010"
+        },
+        {
+          "name": "Guernini",
+          "codePostal": "17011"
+        },
+        {
+          "name": "Sidi Ladjel",
+          "codePostal": "17012"
+        },
+        {
+          "name": "Had-Sahary",
+          "codePostal": "17013"
+        },
+        {
+          "name": "Guettaraa",
+          "codePostal": "17014"
+        },
+        {
+          "name": "Sed Rahal",
+          "codePostal": "17015"
+        },
+        {
+          "name": "Faidh El Botma",
+          "codePostal": "17016"
+        },
+        {
+          "name": "Dar Chioukh",
+          "codePostal": "17017"
+        },
+        {
+          "name": "Douis",
+          "codePostal": "17018"
+        },
+        {
+          "name": "Hassi Bahbah",
+          "codePostal": "17019"
+        },
+        {
+          "name": "Ain El Fodda",
+          "codePostal": "17020"
+        },
+        {
+          "name": "El Khemis",
+          "codePostal": "17021"
+        },
+        {
+          "name": "Messaad",
+          "codePostal": "17022"
+        },
+        {
+          "name": "Guettaraa",
+          "codePostal": "17023"
+        },
+        {
+          "name": "Had El Sahary",
+          "codePostal": "17024"
+        },
+        {
+          "name": "Zaccar",
+          "codePostal": "17025"
+        },
+        {
+          "name": "Ain Chouhada",
+          "codePostal": "17026"
+        },
+        {
+          "name": "Oum Laadham",
+          "codePostal": "17027"
+        },
+        {
+          "name": "El Guedid",
+          "codePostal": "17028"
+        }
+      ],
+      "18": [
+        {
+          "name": "Jijel",
+          "codePostal": "18000"
+        },
+        {
+          "name": "El Aouana",
+          "codePostal": "18001"
+        },
+        {
+          "name": "Ziama Mansouriah",
+          "codePostal": "18002"
+        },
+        {
+          "name": "Taher",
+          "codePostal": "18003"
+        },
+        {
+          "name": "Texenna",
+          "codePostal": "18004"
+        },
+        {
+          "name": "Djimla",
+          "codePostal": "18005"
+        },
+        {
+          "name": "El Ancer",
+          "codePostal": "18006"
+        },
+        {
+          "name": "Sidi Maarouf",
+          "codePostal": "18007"
+        },
+        {
+          "name": "Settara",
+          "codePostal": "18008"
+        },
+        {
+          "name": "El Milia",
+          "codePostal": "18009"
+        },
+        {
+          "name": "Ouled Yahia Khadrouche",
+          "codePostal": "18010"
+        },
+        {
+          "name": "Boudria Beni Yadjis",
+          "codePostal": "18011"
+        },
+        {
+          "name": "Kaous",
+          "codePostal": "18012"
+        },
+        {
+          "name": "Chekfa",
+          "codePostal": "18013"
+        },
+        {
+          "name": "Chahna",
+          "codePostal": "18014"
+        },
+        {
+          "name": "Ain Kercha",
+          "codePostal": "18015"
+        },
+        {
+          "name": "Djimla",
+          "codePostal": "18016"
+        },
+        {
+          "name": "Sidi Abdelaziz",
+          "codePostal": "18017"
+        },
+        {
+          "name": "Selma Ben Ziada",
+          "codePostal": "18018"
+        },
+        {
+          "name": "Ouled Askeur",
+          "codePostal": "18019"
+        },
+        {
+          "name": "Ain Tir",
+          "codePostal": "18020"
+        },
+        {
+          "name": "Bouraoui Belhadef",
+          "codePostal": "18021"
+        },
+        {
+          "name": "Ghebala",
+          "codePostal": "18022"
+        },
+        {
+          "name": "Bordj T'Har",
+          "codePostal": "18023"
+        },
+        {
+          "name": "Zighoud Youcef",
+          "codePostal": "18024"
+        },
+        {
+          "name": "Eraguene",
+          "codePostal": "18025"
+        },
+        {
+          "name": "Oued Adjoul",
+          "codePostal": "18026"
+        },
+        {
+          "name": "Khier",
+          "codePostal": "18027"
+        }
+      ],
+      "19": [
+        {
+          "name": "Setif",
+          "codePostal": "19000"
+        },
+        {
+          "name": "Ain Arnat",
+          "codePostal": "19001"
+        },
+        {
+          "name": "El Eulma",
+          "codePostal": "19002"
+        },
+        {
+          "name": "El Ouricia",
+          "codePostal": "19003"
+        },
+        {
+          "name": "Ain Oulmene",
+          "codePostal": "19004"
+        },
+        {
+          "name": "Ain Roua",
+          "codePostal": "19005"
+        },
+        {
+          "name": "Oum El Adhaim",
+          "codePostal": "19006"
+        },
+        {
+          "name": "Beni Aziz",
+          "codePostal": "19007"
+        },
+        {
+          "name": "Ouled Saber",
+          "codePostal": "19008"
+        },
+        {
+          "name": "Beni Mouhli",
+          "codePostal": "19009"
+        },
+        {
+          "name": "Djemila",
+          "codePostal": "19010"
+        },
+        {
+          "name": "Ain El Kebira",
+          "codePostal": "19011"
+        },
+        {
+          "name": "Ras El Ma",
+          "codePostal": "19012"
+        },
+        {
+          "name": "Guellal",
+          "codePostal": "19013"
+        },
+        {
+          "name": "El Ouldja",
+          "codePostal": "19014"
+        },
+        {
+          "name": "Bouandas",
+          "codePostal": "19015"
+        },
+        {
+          "name": "Serdj El Ghoul",
+          "codePostal": "19016"
+        },
+        {
+          "name": "Guenzet",
+          "codePostal": "19017"
+        },
+        {
+          "name": "Ain Legradj",
+          "codePostal": "19018"
+        },
+        {
+          "name": "El Hammam",
+          "codePostal": "19019"
+        },
+        {
+          "name": "Bousselam",
+          "codePostal": "19020"
+        },
+        {
+          "name": "Hammam Soukhna",
+          "codePostal": "19021"
+        },
+        {
+          "name": "Beni Fouda",
+          "codePostal": "19022"
+        },
+        {
+          "name": "Tizi N'Bechar",
+          "codePostal": "19023"
+        },
+        {
+          "name": "Bir Haddada",
+          "codePostal": "19024"
+        },
+        {
+          "name": "Ouled Tebben",
+          "codePostal": "19025"
+        },
+        {
+          "name": "Ait Naoual Mezada",
+          "codePostal": "19026"
+        },
+        {
+          "name": "Boutaleb",
+          "codePostal": "19027"
+        },
+        {
+          "name": "Ain Legraj",
+          "codePostal": "19028"
+        },
+        {
+          "name": "Tizi N'Bechar",
+          "codePostal": "19029"
+        },
+        {
+          "name": "Ain Abessa",
+          "codePostal": "19030"
+        },
+        {
+          "name": "Mezloug",
+          "codePostal": "19031"
+        },
+        {
+          "name": "Ouled Adouane",
+          "codePostal": "19032"
+        },
+        {
+          "name": "Salah Bey",
+          "codePostal": "19033"
+        },
+        {
+          "name": "Bir El Arch",
+          "codePostal": "19034"
+        },
+        {
+          "name": "Rasfa",
+          "codePostal": "19035"
+        },
+        {
+          "name": "Boutaleb",
+          "codePostal": "19036"
+        },
+        {
+          "name": "Dehamcha",
+          "codePostal": "19037"
+        },
+        {
+          "name": "Guidjel",
+          "codePostal": "19038"
+        },
+        {
+          "name": "Ksar El Abtal",
+          "codePostal": "19039"
+        },
+        {
+          "name": "El Beyath",
+          "codePostal": "19040"
+        },
+        {
+          "name": "Tachouda",
+          "codePostal": "19041"
+        },
+        {
+          "name": "Hammam Guergour",
+          "codePostal": "19042"
+        },
+        {
+          "name": "Bir El Arch",
+          "codePostal": "19043"
+        },
+        {
+          "name": "Tizi N'Bechar",
+          "codePostal": "19044"
+        },
+        {
+          "name": "Babor",
+          "codePostal": "19045"
+        },
+        {
+          "name": "Oued El Bared",
+          "codePostal": "19046"
+        },
+        {
+          "name": "Ouled Sidi Ahmed",
+          "codePostal": "19047"
+        },
+        {
+          "name": "Oued Bared",
+          "codePostal": "19048"
+        },
+        {
+          "name": "Draa Kebila",
+          "codePostal": "19049"
+        },
+        {
+          "name": "Maoklane",
+          "codePostal": "19050"
+        },
+        {
+          "name": "Beidha Bordj",
+          "codePostal": "19051"
+        },
+        {
+          "name": "Ain Sebt",
+          "codePostal": "19052"
+        },
+        {
+          "name": "Ouled Tebben",
+          "codePostal": "19053"
+        },
+        {
+          "name": "Hamma",
+          "codePostal": "19054"
+        },
+        {
+          "name": "Ain Azel",
+          "codePostal": "19055"
+        },
+        {
+          "name": "Kherrata",
+          "codePostal": "19056"
+        },
+        {
+          "name": "Bellaa",
+          "codePostal": "19057"
+        },
+        {
+          "name": "El Ouldja",
+          "codePostal": "19058"
+        },
+        {
+          "name": "Bir Haddada",
+          "codePostal": "19059"
+        },
+        {
+          "name": "Ain El Kebira",
+          "codePostal": "19060"
+        }
+      ],
+      "20": [
+        {
+          "name": "Saida",
+          "codePostal": "20000"
+        },
+        {
+          "name": "Ain El Hadjar",
+          "codePostal": "20001"
+        },
+        {
+          "name": "Ouled Brahim",
+          "codePostal": "20002"
+        },
+        {
+          "name": "Sidi Boubekeur",
+          "codePostal": "20003"
+        },
+        {
+          "name": "El Hassasna",
+          "codePostal": "20004"
+        },
+        {
+          "name": "Sidi Amar",
+          "codePostal": "20005"
+        },
+        {
+          "name": "Youb",
+          "codePostal": "20006"
+        },
+        {
+          "name": "Tircine",
+          "codePostal": "20007"
+        },
+        {
+          "name": "Ain Soltane",
+          "codePostal": "20008"
+        },
+        {
+          "name": "Hounet",
+          "codePostal": "20009"
+        },
+        {
+          "name": "Ain Skhouna",
+          "codePostal": "20010"
+        },
+        {
+          "name": "Maamora",
+          "codePostal": "20011"
+        },
+        {
+          "name": "Doui Thabet",
+          "codePostal": "20012"
+        },
+        {
+          "name": "Ain Soltane",
+          "codePostal": "20013"
+        },
+        {
+          "name": "Moulay Larbi",
+          "codePostal": "20014"
+        },
+        {
+          "name": "El Bradia",
+          "codePostal": "20015"
+        },
+        {
+          "name": "Sidi Ahmed",
+          "codePostal": "20016"
+        }
+      ],
+      "21": [
+        {
+          "name": "Skikda",
+          "codePostal": "21000"
+        },
+        {
+          "name": "El Harrouch",
+          "codePostal": "21001"
+        },
+        {
+          "name": "Zighoud Youcef",
+          "codePostal": "21002"
+        },
+        {
+          "name": "Ain Zouit",
+          "codePostal": "21003"
+        },
+        {
+          "name": "El Marsa",
+          "codePostal": "21004"
+        },
+        {
+          "name": "Sidi Mezghiche",
+          "codePostal": "21005"
+        },
+        {
+          "name": "Collo",
+          "codePostal": "21006"
+        },
+        {
+          "name": "Kerkera",
+          "codePostal": "21007"
+        },
+        {
+          "name": "Oum Toub",
+          "codePostal": "21008"
+        },
+        {
+          "name": "El Hadaik",
+          "codePostal": "21009"
+        },
+        {
+          "name": "Azzaba",
+          "codePostal": "21010"
+        },
+        {
+          "name": "Djendel Saadi Mohamed",
+          "codePostal": "21011"
+        },
+        {
+          "name": "Ain Kechra",
+          "codePostal": "21012"
+        },
+        {
+          "name": "Ramdane Djamel",
+          "codePostal": "21013"
+        },
+        {
+          "name": "Emdjez El Foul",
+          "codePostal": "21014"
+        },
+        {
+          "name": "Hammadi Krouma",
+          "codePostal": "21015"
+        },
+        {
+          "name": "Oued Zhour",
+          "codePostal": "21016"
+        },
+        {
+          "name": "Filfila",
+          "codePostal": "21017"
+        },
+        {
+          "name": "Tamalous",
+          "codePostal": "21018"
+        },
+        {
+          "name": "Ouldja Boulbalout",
+          "codePostal": "21019"
+        },
+        {
+          "name": "Oued El Aneb",
+          "codePostal": "21020"
+        },
+        {
+          "name": "Salah Bouchaour",
+          "codePostal": "21021"
+        },
+        {
+          "name": "Bir El Ouiden",
+          "codePostal": "21022"
+        },
+        {
+          "name": "Beni Bechir",
+          "codePostal": "21023"
+        },
+        {
+          "name": "Beni Oulbane",
+          "codePostal": "21024"
+        },
+        {
+          "name": "Beni Zid",
+          "codePostal": "21025"
+        },
+        {
+          "name": "Kanoua",
+          "codePostal": "21026"
+        },
+        {
+          "name": "Ouled Attia",
+          "codePostal": "21027"
+        },
+        {
+          "name": "Beni Ouelbane",
+          "codePostal": "21028"
+        },
+        {
+          "name": "Cheraia",
+          "codePostal": "21029"
+        },
+        {
+          "name": "Tamalous",
+          "codePostal": "21030"
+        },
+        {
+          "name": "Zitouna",
+          "codePostal": "21031"
+        },
+        {
+          "name": "Ben Azzouz",
+          "codePostal": "21032"
+        },
+        {
+          "name": "Tébessa",
+          "codePostal": "21033"
+        },
+        {
+          "name": "Ainkechra",
+          "codePostal": "21034"
+        },
+        {
+          "name": "Bouchetata",
+          "codePostal": "21035"
+        },
+        {
+          "name": "Oued Berd",
+          "codePostal": "21036"
+        },
+        {
+          "name": "Es Sebt",
+          "codePostal": "21037"
+        },
+        {
+          "name": "Ouled Attia",
+          "codePostal": "21038"
+        }
+      ],
+      "22": [
+        {
+          "name": "Sidi Bel Abbes",
+          "codePostal": "22000"
+        },
+        {
+          "name": "Tessala",
+          "codePostal": "22001"
+        },
+        {
+          "name": "Ain El Berd",
+          "codePostal": "22002"
+        },
+        {
+          "name": "Sidi Ali Benyoub",
+          "codePostal": "22003"
+        },
+        {
+          "name": "Sidi Ali Boussidi",
+          "codePostal": "22004"
+        },
+        {
+          "name": "Oued Taourira",
+          "codePostal": "22005"
+        },
+        {
+          "name": "Badreddin El Mokrani",
+          "codePostal": "22006"
+        },
+        {
+          "name": "Sidi Khaled",
+          "codePostal": "22007"
+        },
+        {
+          "name": "Oued Sbaghia",
+          "codePostal": "22008"
+        },
+        {
+          "name": "Sfisef",
+          "codePostal": "22009"
+        },
+        {
+          "name": "Sidi Brahim",
+          "codePostal": "22010"
+        },
+        {
+          "name": "Tabia",
+          "codePostal": "22011"
+        },
+        {
+          "name": "Tilmouni",
+          "codePostal": "22012"
+        },
+        {
+          "name": "Tenira",
+          "codePostal": "22013"
+        },
+        {
+          "name": "Hassi Zahana",
+          "codePostal": "22014"
+        },
+        {
+          "name": "Mezaourou",
+          "codePostal": "22015"
+        },
+        {
+          "name": "Boudjebha El Bordj",
+          "codePostal": "22016"
+        },
+        {
+          "name": "Sidi Lahcene",
+          "codePostal": "22017"
+        },
+        {
+          "name": "Chetouane",
+          "codePostal": "22018"
+        },
+        {
+          "name": "Belarbi",
+          "codePostal": "22019"
+        },
+        {
+          "name": "Lamtar",
+          "codePostal": "22020"
+        },
+        {
+          "name": "Zerouala",
+          "codePostal": "22021"
+        },
+        {
+          "name": "Ain Tindamine",
+          "codePostal": "22022"
+        },
+        {
+          "name": "Ben Badis",
+          "codePostal": "22023"
+        },
+        {
+          "name": "Mostefa Ben Brahim",
+          "codePostal": "22024"
+        },
+        {
+          "name": "Redjem Demouche",
+          "codePostal": "22025"
+        },
+        {
+          "name": "Ben Badis",
+          "codePostal": "22026"
+        },
+        {
+          "name": "Sidi Hamadouche",
+          "codePostal": "22027"
+        },
+        {
+          "name": "Ain Kada",
+          "codePostal": "22028"
+        },
+        {
+          "name": "Oued Taourira",
+          "codePostal": "22029"
+        },
+        {
+          "name": "Marhoum",
+          "codePostal": "22030"
+        },
+        {
+          "name": "Merine",
+          "codePostal": "22031"
+        },
+        {
+          "name": "Moulay Slissen",
+          "codePostal": "22032"
+        },
+        {
+          "name": "Ras El Ma",
+          "codePostal": "22033"
+        },
+        {
+          "name": "El Hachem",
+          "codePostal": "22034"
+        },
+        {
+          "name": "Oued El Kheir",
+          "codePostal": "22035"
+        },
+        {
+          "name": "Ain Lahdjel",
+          "codePostal": "22036"
+        },
+        {
+          "name": "Sidi Bel Abbes",
+          "codePostal": "22037"
+        },
+        {
+          "name": "Sidi Chaib",
+          "codePostal": "22038"
+        },
+        {
+          "name": "Sidi Lahcene",
+          "codePostal": "22039"
+        },
+        {
+          "name": "Zeddine",
+          "codePostal": "22040"
+        },
+        {
+          "name": "Sidi Daho Des Zairs",
+          "codePostal": "22041"
+        },
+        {
+          "name": "Hass El Gara",
+          "codePostal": "22042"
+        },
+        {
+          "name": "Sidi Hamadouche",
+          "codePostal": "22043"
+        },
+        {
+          "name": "Ain Kada",
+          "codePostal": "22044"
+        },
+        {
+          "name": "Oued Sefioune",
+          "codePostal": "22045"
+        },
+        {
+          "name": "Bir El Hammam",
+          "codePostal": "22046"
+        },
+        {
+          "name": "Bir El Hammam",
+          "codePostal": "22047"
+        }
+      ],
+      "23": [
+        {
+          "name": "Annaba",
+          "codePostal": "23000"
+        },
+        {
+          "name": "El Hadjar",
+          "codePostal": "23001"
+        },
+        {
+          "name": "Berrahel",
+          "codePostal": "23002"
+        },
+        {
+          "name": "El Bouni",
+          "codePostal": "23003"
+        },
+        {
+          "name": "Oued El Aneb",
+          "codePostal": "23004"
+        },
+        {
+          "name": "Chetaibi",
+          "codePostal": "23005"
+        },
+        {
+          "name": "Sidi Amar",
+          "codePostal": "23006"
+        },
+        {
+          "name": "Ain El Berda",
+          "codePostal": "23007"
+        },
+        {
+          "name": "Seraidi",
+          "codePostal": "23008"
+        },
+        {
+          "name": "Treat",
+          "codePostal": "23009"
+        },
+        {
+          "name": "Eulma",
+          "codePostal": "23010"
+        },
+        {
+          "name": "Tréat",
+          "codePostal": "23011"
+        },
+        {
+          "name": "El Hadjar",
+          "codePostal": "23012"
+        }
+      ],
+      "24": [
+        {
+          "name": "Guelma",
+          "codePostal": "24000"
+        },
+        {
+          "name": "Nechmaya",
+          "codePostal": "24001"
+        },
+        {
+          "name": "Ain Makhlouf",
+          "codePostal": "24002"
+        },
+        {
+          "name": "Ain Ben Beida",
+          "codePostal": "24003"
+        },
+        {
+          "name": "Tamlouka",
+          "codePostal": "24004"
+        },
+        {
+          "name": "Djebala Khemissi",
+          "codePostal": "24005"
+        },
+        {
+          "name": "El Fedjoudj",
+          "codePostal": "24006"
+        },
+        {
+          "name": "Oued Zenati",
+          "codePostal": "24007"
+        },
+        {
+          "name": "Houari Boumediene",
+          "codePostal": "24008"
+        },
+        {
+          "name": "Ras El Agba",
+          "codePostal": "24009"
+        },
+        {
+          "name": "Helia",
+          "codePostal": "24010"
+        },
+        {
+          "name": "Ain Sandel",
+          "codePostal": "24011"
+        },
+        {
+          "name": "Bouhamdane",
+          "codePostal": "24012"
+        },
+        {
+          "name": "Oued Fragha",
+          "codePostal": "24013"
+        },
+        {
+          "name": "Medjez Amar",
+          "codePostal": "24014"
+        },
+        {
+          "name": "Sellaoua Announa",
+          "codePostal": "24015"
+        },
+        {
+          "name": "Ain Regada",
+          "codePostal": "24016"
+        },
+        {
+          "name": "Heliopolis",
+          "codePostal": "24017"
+        },
+        {
+          "name": "Khezaras",
+          "codePostal": "24018"
+        },
+        {
+          "name": "Hammam Debagh",
+          "codePostal": "24019"
+        },
+        {
+          "name": "Ain Larbi",
+          "codePostal": "24020"
+        },
+        {
+          "name": "Medjez Sfa",
+          "codePostal": "24021"
+        },
+        {
+          "name": "Ain Hedjel",
+          "codePostal": "24022"
+        },
+        {
+          "name": "Bou Hachana",
+          "codePostal": "24023"
+        },
+        {
+          "name": "Dahouara",
+          "codePostal": "24024"
+        },
+        {
+          "name": "Tamera",
+          "codePostal": "24025"
+        },
+        {
+          "name": "Belkheir",
+          "codePostal": "24026"
+        },
+        {
+          "name": "Ras El Agba",
+          "codePostal": "24027"
+        },
+        {
+          "name": "El Fedjoudj",
+          "codePostal": "24028"
+        },
+        {
+          "name": "Oued El Agba",
+          "codePostal": "24029"
+        },
+        {
+          "name": "Ain Regada",
+          "codePostal": "24030"
+        },
+        {
+          "name": "Bendjerrah",
+          "codePostal": "24031"
+        },
+        {
+          "name": "Belaairia",
+          "codePostal": "24032"
+        },
+        {
+          "name": "Roknia",
+          "codePostal": "24033"
+        },
+        {
+          "name": "El Djorf",
+          "codePostal": "24034"
+        }
+      ],
+      "25": [
+        {
+          "name": "Constantine",
+          "codePostal": "25000"
+        },
+        {
+          "name": "Hamma Bouziane",
+          "codePostal": "25001"
+        },
+        {
+          "name": "Didouche Mourad",
+          "codePostal": "25002"
+        },
+        {
+          "name": "Beni Hamidan",
+          "codePostal": "25003"
+        },
+        {
+          "name": "Ouled Rahmoun",
+          "codePostal": "25004"
+        },
+        {
+          "name": "Zighoud Youcef",
+          "codePostal": "25005"
+        },
+        {
+          "name": "Ibn Badis",
+          "codePostal": "25006"
+        },
+        {
+          "name": "Ain Smara",
+          "codePostal": "25007"
+        },
+        {
+          "name": "El Khroub",
+          "codePostal": "25008"
+        },
+        {
+          "name": "Ain Abid",
+          "codePostal": "25009"
+        },
+        {
+          "name": "Oued Rahel",
+          "codePostal": "25010"
+        },
+        {
+          "name": "Mesaoud Boudjeriou",
+          "codePostal": "25011"
+        }
+      ],
+      "26": [
+        {
+          "name": "Medea",
+          "codePostal": "26000"
+        },
+        {
+          "name": "Ain Boucif",
+          "codePostal": "26001"
+        },
+        {
+          "name": "Oum El Djalil",
+          "codePostal": "26002"
+        },
+        {
+          "name": "Had Boussalem",
+          "codePostal": "26003"
+        },
+        {
+          "name": "Sedraya",
+          "codePostal": "26004"
+        },
+        {
+          "name": "El Omaria",
+          "codePostal": "26005"
+        },
+        {
+          "name": "Boghar",
+          "codePostal": "26006"
+        },
+        {
+          "name": "Ain Ouksir",
+          "codePostal": "26007"
+        },
+        {
+          "name": "Derrag",
+          "codePostal": "26008"
+        },
+        {
+          "name": "El Hamdania",
+          "codePostal": "26009"
+        },
+        {
+          "name": "Tablat",
+          "codePostal": "26010"
+        },
+        {
+          "name": "Saneg",
+          "codePostal": "26011"
+        },
+        {
+          "name": "Ain Bouchekif",
+          "codePostal": "26012"
+        },
+        {
+          "name": "Seghouane",
+          "codePostal": "26013"
+        },
+        {
+          "name": "Berrouaghia",
+          "codePostal": "26014"
+        },
+        {
+          "name": "Mihoub",
+          "codePostal": "26015"
+        },
+        {
+          "name": "Medjbet",
+          "codePostal": "26016"
+        },
+        {
+          "name": "Ain Messis",
+          "codePostal": "26017"
+        },
+        {
+          "name": "Chellalat El Adhaoura",
+          "codePostal": "26018"
+        },
+        {
+          "name": "Aziz",
+          "codePostal": "26019"
+        },
+        {
+          "name": "Rebaia",
+          "codePostal": "26020"
+        },
+        {
+          "name": "Boughezoul",
+          "codePostal": "26021"
+        },
+        {
+          "name": "Ouled Antar",
+          "codePostal": "26022"
+        },
+        {
+          "name": "Ain El Fodha",
+          "codePostal": "26023"
+        },
+        {
+          "name": "El Azizia",
+          "codePostal": "26024"
+        },
+        {
+          "name": "El Ouadhi",
+          "codePostal": "26025"
+        },
+        {
+          "name": "Ksar El Boukhari",
+          "codePostal": "26026"
+        },
+        {
+          "name": "Djouab",
+          "codePostal": "26027"
+        },
+        {
+          "name": "Chelalet El Adhaoura",
+          "codePostal": "26028"
+        },
+        {
+          "name": "Ouamri",
+          "codePostal": "26029"
+        },
+        {
+          "name": "Si Mahdjoub",
+          "codePostal": "26030"
+        },
+        {
+          "name": "Draa Smar",
+          "codePostal": "26031"
+        },
+        {
+          "name": "Benchicao",
+          "codePostal": "26032"
+        },
+        {
+          "name": "Ain Ouksir",
+          "codePostal": "26033"
+        },
+        {
+          "name": "Tafraout",
+          "codePostal": "26034"
+        },
+        {
+          "name": "Bir Ben Laabed",
+          "codePostal": "26035"
+        },
+        {
+          "name": "Sidi Naamane",
+          "codePostal": "26036"
+        },
+        {
+          "name": "Sidi Zahar",
+          "codePostal": "26037"
+        },
+        {
+          "name": "Oued Harbil",
+          "codePostal": "26038"
+        },
+        {
+          "name": "Tizi Mahdi",
+          "codePostal": "26039"
+        },
+        {
+          "name": "Souagui",
+          "codePostal": "26040"
+        },
+        {
+          "name": "El Guelb El Kebir",
+          "codePostal": "26041"
+        },
+        {
+          "name": "Chebli",
+          "codePostal": "26042"
+        },
+        {
+          "name": "Sidi Damed",
+          "codePostal": "26043"
+        },
+        {
+          "name": "Tafraout",
+          "codePostal": "26044"
+        },
+        {
+          "name": "Chahbounia",
+          "codePostal": "26045"
+        },
+        {
+          "name": "Ouled Deide",
+          "codePostal": "26046"
+        },
+        {
+          "name": "Meftaha",
+          "codePostal": "26047"
+        },
+        {
+          "name": "Ain Boucif",
+          "codePostal": "26048"
+        },
+        {
+          "name": "Oum El Djalil",
+          "codePostal": "26049"
+        },
+        {
+          "name": "Beni Slimane",
+          "codePostal": "26050"
+        },
+        {
+          "name": "Bouskene",
+          "codePostal": "26051"
+        },
+        {
+          "name": "El Omaria",
+          "codePostal": "26052"
+        },
+        {
+          "name": "Meghraoua",
+          "codePostal": "26053"
+        },
+        {
+          "name": "Ouzera",
+          "codePostal": "26054"
+        },
+        {
+          "name": "Baata",
+          "codePostal": "26055"
+        },
+        {
+          "name": "Oued El Aneb",
+          "codePostal": "26056"
+        },
+        {
+          "name": "Si Abdelghani",
+          "codePostal": "26057"
+        },
+        {
+          "name": "El Aissaouia",
+          "codePostal": "26058"
+        }
+      ],
+      "27": [
+        {
+          "name": "Mostaganem",
+          "codePostal": "27000"
+        },
+        {
+          "name": "Ain Tedles",
+          "codePostal": "27001"
+        },
+        {
+          "name": "Sidi Ali",
+          "codePostal": "27002"
+        },
+        {
+          "name": "Bouguirat",
+          "codePostal": "27003"
+        },
+        {
+          "name": "Mesra",
+          "codePostal": "27004"
+        },
+        {
+          "name": "Stidia",
+          "codePostal": "27005"
+        },
+        {
+          "name": "Ain Sidi Cherif",
+          "codePostal": "27006"
+        },
+        {
+          "name": "Fornaka",
+          "codePostal": "27007"
+        },
+        {
+          "name": "Ouled Maalah",
+          "codePostal": "27008"
+        },
+        {
+          "name": "Hassi Mameche",
+          "codePostal": "27009"
+        },
+        {
+          "name": "Oued El Kheir",
+          "codePostal": "27010"
+        },
+        {
+          "name": "Sirat",
+          "codePostal": "27011"
+        },
+        {
+          "name": "Abdelmalek Ramdane",
+          "codePostal": "27012"
+        },
+        {
+          "name": "Safsaf",
+          "codePostal": "27013"
+        },
+        {
+          "name": "Ouled Boughalem",
+          "codePostal": "27014"
+        },
+        {
+          "name": "Khiredine",
+          "codePostal": "27015"
+        },
+        {
+          "name": "Ain Boudinar",
+          "codePostal": "27016"
+        },
+        {
+          "name": "Mansourah",
+          "codePostal": "27017"
+        },
+        {
+          "name": "Mezghrane",
+          "codePostal": "27018"
+        },
+        {
+          "name": "Ain Nouissy",
+          "codePostal": "27019"
+        },
+        {
+          "name": "Ouled Maalah",
+          "codePostal": "27020"
+        },
+        {
+          "name": "Sayada",
+          "codePostal": "27021"
+        },
+        {
+          "name": "Kheir Eddine",
+          "codePostal": "27022"
+        },
+        {
+          "name": "Tazgait",
+          "codePostal": "27023"
+        },
+        {
+          "name": "Ain Sidi Cherif",
+          "codePostal": "27024"
+        },
+        {
+          "name": "Oued El Kheir",
+          "codePostal": "27025"
+        },
+        {
+          "name": "Sour",
+          "codePostal": "27026"
+        },
+        {
+          "name": "Hadjadj",
+          "codePostal": "27027"
+        },
+        {
+          "name": "Ain El Hadid",
+          "codePostal": "27028"
+        },
+        {
+          "name": "El Hassiane",
+          "codePostal": "27029"
+        },
+        {
+          "name": "Ain Ferahe",
+          "codePostal": "27030"
+        },
+        {
+          "name": "Sidi Lakhdar",
+          "codePostal": "27031"
+        },
+        {
+          "name": "Nekmaria",
+          "codePostal": "27032"
+        }
+      ],
+      "28": [
+        {
+          "name": "M'Sila",
+          "codePostal": "28000"
+        },
+        {
+          "name": "Ain El Melh",
+          "codePostal": "28001"
+        },
+        {
+          "name": "Hammam Dalaa",
+          "codePostal": "28002"
+        },
+        {
+          "name": "Sidi Aissa",
+          "codePostal": "28003"
+        },
+        {
+          "name": "Ain El Hadjel",
+          "codePostal": "28004"
+        },
+        {
+          "name": "Sidi Ameur",
+          "codePostal": "28005"
+        },
+        {
+          "name": "Oultene",
+          "codePostal": "28006"
+        },
+        {
+          "name": "Khoubana",
+          "codePostal": "28007"
+        },
+        {
+          "name": "Chellal",
+          "codePostal": "28008"
+        },
+        {
+          "name": "Medjedel",
+          "codePostal": "28009"
+        },
+        {
+          "name": "Berhoum",
+          "codePostal": "28010"
+        },
+        {
+          "name": "Ain Fares",
+          "codePostal": "28011"
+        },
+        {
+          "name": "Sidi M'Hamed",
+          "codePostal": "28012"
+        },
+        {
+          "name": "Magra",
+          "codePostal": "28013"
+        },
+        {
+          "name": "Boussaada",
+          "codePostal": "28014"
+        },
+        {
+          "name": "El Haouamed",
+          "codePostal": "28015"
+        },
+        {
+          "name": "Djebel Messaad",
+          "codePostal": "28016"
+        },
+        {
+          "name": "Beni Ilmane",
+          "codePostal": "28017"
+        },
+        {
+          "name": "Ben Srour",
+          "codePostal": "28018"
+        },
+        {
+          "name": "El Houamed",
+          "codePostal": "28019"
+        },
+        {
+          "name": "Dehahna",
+          "codePostal": "28020"
+        },
+        {
+          "name": "Bir Foda",
+          "codePostal": "28021"
+        },
+        {
+          "name": "Oued Chammar",
+          "codePostal": "28022"
+        },
+        {
+          "name": "Ouanougha",
+          "codePostal": "28023"
+        },
+        {
+          "name": "Ouled Mansour",
+          "codePostal": "28024"
+        },
+        {
+          "name": "Sidi Hadjeres",
+          "codePostal": "28025"
+        },
+        {
+          "name": "Tarmount",
+          "codePostal": "28026"
+        },
+        {
+          "name": "Bou Saada",
+          "codePostal": "28027"
+        },
+        {
+          "name": "Ksar El Hirane",
+          "codePostal": "28028"
+        },
+        {
+          "name": "Oued El Maadi",
+          "codePostal": "28029"
+        },
+        {
+          "name": "Ain Oulmene",
+          "codePostal": "28030"
+        },
+        {
+          "name": "Aïn El Orak",
+          "codePostal": "28031"
+        },
+        {
+          "name": "Leghrous",
+          "codePostal": "28032"
+        },
+        {
+          "name": "M'Tarfa",
+          "codePostal": "28033"
+        },
+        {
+          "name": "Ben Nacer Ben Chohra",
+          "codePostal": "28034"
+        },
+        {
+          "name": "Draa En Naga",
+          "codePostal": "28035"
+        },
+        {
+          "name": "Djaafra",
+          "codePostal": "28036"
+        },
+        {
+          "name": "Oum Lekhal",
+          "codePostal": "28037"
+        },
+        {
+          "name": "Sidi Mansour",
+          "codePostal": "28038"
+        },
+        {
+          "name": "Metarfa",
+          "codePostal": "28039"
+        },
+        {
+          "name": "Ouled Sidi Brahim",
+          "codePostal": "28040"
+        },
+        {
+          "name": "El Khroub",
+          "codePostal": "28041"
+        },
+        {
+          "name": "El Oued",
+          "codePostal": "28042"
+        },
+        {
+          "name": "Ain Fares",
+          "codePostal": "28043"
+        },
+        {
+          "name": "Ain El Hadjel",
+          "codePostal": "28044"
+        },
+        {
+          "name": "Bou Saada",
+          "codePostal": "28045"
+        },
+        {
+          "name": "Oued El Maadi",
+          "codePostal": "28046"
+        },
+        {
+          "name": "Tarmount",
+          "codePostal": "28047"
+        }
+      ],
+      "29": [
+        {
+          "name": "Mascara",
+          "codePostal": "29000"
+        },
+        {
+          "name": "Bou Henni",
+          "codePostal": "29001"
+        },
+        {
+          "name": "Hacine",
+          "codePostal": "29002"
+        },
+        {
+          "name": "Maoussa",
+          "codePostal": "29003"
+        },
+        {
+          "name": "Oggaz",
+          "codePostal": "29004"
+        },
+        {
+          "name": "Sidi Abdelmoumen",
+          "codePostal": "29005"
+        },
+        {
+          "name": "Tizi",
+          "codePostal": "29006"
+        },
+        {
+          "name": "El Ghomri",
+          "codePostal": "29007"
+        },
+        {
+          "name": "Ain Fekan",
+          "codePostal": "29008"
+        },
+        {
+          "name": "Benian",
+          "codePostal": "29009"
+        },
+        {
+          "name": "Khalouia",
+          "codePostal": "29010"
+        },
+        {
+          "name": "El Keurt",
+          "codePostal": "29011"
+        },
+        {
+          "name": "Alaimia",
+          "codePostal": "29012"
+        },
+        {
+          "name": "Sidi Kada",
+          "codePostal": "29013"
+        },
+        {
+          "name": "Aouf",
+          "codePostal": "29014"
+        },
+        {
+          "name": "Ain Fares",
+          "codePostal": "29015"
+        },
+        {
+          "name": "Zahana",
+          "codePostal": "29016"
+        },
+        {
+          "name": "Ain Frass",
+          "codePostal": "29017"
+        },
+        {
+          "name": "Bouhanifia",
+          "codePostal": "29018"
+        },
+        {
+          "name": "El Mamounia",
+          "codePostal": "29019"
+        },
+        {
+          "name": "Sidi Boussaid",
+          "codePostal": "29020"
+        },
+        {
+          "name": "El Keurt",
+          "codePostal": "29021"
+        },
+        {
+          "name": "Tizi",
+          "codePostal": "29022"
+        },
+        {
+          "name": "Oued El Abtal",
+          "codePostal": "29023"
+        },
+        {
+          "name": "Ferraguig",
+          "codePostal": "29024"
+        },
+        {
+          "name": "Ghriss",
+          "codePostal": "29025"
+        },
+        {
+          "name": "Nesmoth",
+          "codePostal": "29026"
+        },
+        {
+          "name": "Matemore",
+          "codePostal": "29027"
+        },
+        {
+          "name": "Oued El Abtal",
+          "codePostal": "29028"
+        },
+        {
+          "name": "Sedjerara",
+          "codePostal": "29029"
+        },
+        {
+          "name": "Froha",
+          "codePostal": "29030"
+        },
+        {
+          "name": "Tighennif",
+          "codePostal": "29031"
+        },
+        {
+          "name": "Sig",
+          "codePostal": "29032"
+        },
+        {
+          "name": "Guerdjoum",
+          "codePostal": "29033"
+        },
+        {
+          "name": "Ain Fares",
+          "codePostal": "29034"
+        },
+        {
+          "name": "Sidi M'Hamed Ben Ali",
+          "codePostal": "29035"
+        },
+        {
+          "name": "El Bordj",
+          "codePostal": "29036"
+        },
+        {
+          "name": "Mohammedia",
+          "codePostal": "29037"
+        },
+        {
+          "name": "Bou Hanifia El Hamamm",
+          "codePostal": "29038"
+        },
+        {
+          "name": "Sidi Abdeldjebbar",
+          "codePostal": "29039"
+        },
+        {
+          "name": "Ain Fekan",
+          "codePostal": "29040"
+        },
+        {
+          "name": "Makdha",
+          "codePostal": "29041"
+        },
+        {
+          "name": "Chorfa",
+          "codePostal": "29042"
+        },
+        {
+          "name": "Sidi Boussaid",
+          "codePostal": "29043"
+        },
+        {
+          "name": "Khalouia",
+          "codePostal": "29044"
+        },
+        {
+          "name": "Ghomri",
+          "codePostal": "29045"
+        },
+        {
+          "name": "Ain Fekan",
+          "codePostal": "29046"
+        },
+        {
+          "name": "Sehailia",
+          "codePostal": "29047"
+        }
+      ],
+      "30": [
+        {
+          "name": "Ouargla",
+          "codePostal": "30000"
+        },
+        {
+          "name": "Ain Beida",
+          "codePostal": "30001"
+        },
+        {
+          "name": "El Borma",
+          "codePostal": "30002"
+        },
+        {
+          "name": "Rouissat",
+          "codePostal": "30003"
+        },
+        {
+          "name": "El Hedjira",
+          "codePostal": "30004"
+        },
+        {
+          "name": "N'Goussa",
+          "codePostal": "30005"
+        },
+        {
+          "name": "Sidi Khouiled",
+          "codePostal": "30006"
+        },
+        {
+          "name": "Hassi Messaoud",
+          "codePostal": "30007"
+        },
+        {
+          "name": "Balilet",
+          "codePostal": "30008"
+        },
+        {
+          "name": "Taibet",
+          "codePostal": "30009"
+        },
+        {
+          "name": "Touggourt",
+          "codePostal": "30010"
+        },
+        {
+          "name": "Temacine",
+          "codePostal": "30011"
+        },
+        {
+          "name": "Nezla",
+          "codePostal": "30012"
+        },
+        {
+          "name": "Zaouia El Abidia",
+          "codePostal": "30013"
+        },
+        {
+          "name": "El Allia",
+          "codePostal": "30014"
+        },
+        {
+          "name": "Taibet",
+          "codePostal": "30015"
+        },
+        {
+          "name": "Mnagueur",
+          "codePostal": "30016"
+        },
+        {
+          "name": "Djamaa",
+          "codePostal": "30017"
+        },
+        {
+          "name": "Megarine",
+          "codePostal": "30018"
+        },
+        {
+          "name": "El Bour",
+          "codePostal": "30019"
+        },
+        {
+          "name": "Hassi Ben Abdallah",
+          "codePostal": "30020"
+        },
+        {
+          "name": "Tebesbest",
+          "codePostal": "30021"
+        }
+      ],
+      "31": [
+        {
+          "name": "Oran",
+          "codePostal": "31000"
+        },
+        {
+          "name": "Arzew",
+          "codePostal": "31001"
+        },
+        {
+          "name": "Bethioua",
+          "codePostal": "31002"
+        },
+        {
+          "name": "Marsat El Hadjadj",
+          "codePostal": "31003"
+        },
+        {
+          "name": "Ain El Turk",
+          "codePostal": "31004"
+        },
+        {
+          "name": "El Ancor",
+          "codePostal": "31005"
+        },
+        {
+          "name": "Gdyel",
+          "codePostal": "31006"
+        },
+        {
+          "name": "Bir El Djir",
+          "codePostal": "31007"
+        },
+        {
+          "name": "Hassi Ben Okba",
+          "codePostal": "31008"
+        },
+        {
+          "name": "Ben Freha",
+          "codePostal": "31009"
+        },
+        {
+          "name": "Hassi Mefsoukh",
+          "codePostal": "31010"
+        },
+        {
+          "name": "Sidi Ben Yebka",
+          "codePostal": "31011"
+        },
+        {
+          "name": "Messerghin",
+          "codePostal": "31012"
+        },
+        {
+          "name": "Boufatis",
+          "codePostal": "31013"
+        },
+        {
+          "name": "Mers El Kebir",
+          "codePostal": "31014"
+        },
+        {
+          "name": "Bousfer",
+          "codePostal": "31015"
+        },
+        {
+          "name": "El Karma",
+          "codePostal": "31016"
+        },
+        {
+          "name": "Es Senia",
+          "codePostal": "31017"
+        },
+        {
+          "name": "Oued Tlelat",
+          "codePostal": "31018"
+        },
+        {
+          "name": "Tafraoui",
+          "codePostal": "31019"
+        },
+        {
+          "name": "Sidi Chami",
+          "codePostal": "31020"
+        },
+        {
+          "name": "Boufatis",
+          "codePostal": "31021"
+        },
+        {
+          "name": "El Braya",
+          "codePostal": "31022"
+        },
+        {
+          "name": "Ain Kerma",
+          "codePostal": "31023"
+        },
+        {
+          "name": "El Kerma",
+          "codePostal": "31024"
+        },
+        {
+          "name": "Es Senia",
+          "codePostal": "31025"
+        },
+        {
+          "name": "Sidi El Bachir",
+          "codePostal": "31026"
+        },
+        {
+          "name": "El Hassi",
+          "codePostal": "31027"
+        },
+        {
+          "name": "Misserghine",
+          "codePostal": "31028"
+        },
+        {
+          "name": "Ain Turk",
+          "codePostal": "31029"
+        }
+      ],
+      "32": [
+        {
+          "name": "El Bayadh",
+          "codePostal": "32000"
+        },
+        {
+          "name": "Rogassa",
+          "codePostal": "32001"
+        },
+        {
+          "name": "Sidi Ameur",
+          "codePostal": "32002"
+        },
+        {
+          "name": "Ghassoul",
+          "codePostal": "32003"
+        },
+        {
+          "name": "Boualem",
+          "codePostal": "32004"
+        },
+        {
+          "name": "El Bnoud",
+          "codePostal": "32005"
+        },
+        {
+          "name": "Cheguig",
+          "codePostal": "32006"
+        },
+        {
+          "name": "Kef El Ahmar",
+          "codePostal": "32007"
+        },
+        {
+          "name": "Boualem",
+          "codePostal": "32008"
+        },
+        {
+          "name": "Ain El Orak",
+          "codePostal": "32009"
+        },
+        {
+          "name": "Arbaouat",
+          "codePostal": "32010"
+        },
+        {
+          "name": "Labiodh Sidi Cheikh",
+          "codePostal": "32011"
+        },
+        {
+          "name": "Brézina",
+          "codePostal": "32012"
+        },
+        {
+          "name": "Ghirous",
+          "codePostal": "32013"
+        },
+        {
+          "name": "Bnoud",
+          "codePostal": "32014"
+        },
+        {
+          "name": "El Kheiter",
+          "codePostal": "32015"
+        },
+        {
+          "name": "Tousmouline",
+          "codePostal": "32016"
+        },
+        {
+          "name": "Sidi Tifour",
+          "codePostal": "32017"
+        },
+        {
+          "name": "Brezina",
+          "codePostal": "32018"
+        },
+        {
+          "name": "Boussemghoun",
+          "codePostal": "32019"
+        },
+        {
+          "name": "Krakda",
+          "codePostal": "32020"
+        },
+        {
+          "name": "Chellala",
+          "codePostal": "32021"
+        },
+        {
+          "name": "Stitten",
+          "codePostal": "32022"
+        },
+        {
+          "name": "Ain Sefra",
+          "codePostal": "32023"
+        }
+      ],
+      "33": [
+        {
+          "name": "Illizi",
+          "codePostal": "33000"
+        },
+        {
+          "name": "Djanet",
+          "codePostal": "33001"
+        },
+        {
+          "name": "In Amenas",
+          "codePostal": "33002"
+        },
+        {
+          "name": "Bordj El Haouès",
+          "codePostal": "33003"
+        },
+        {
+          "name": "Deb Deb",
+          "codePostal": "33004"
+        },
+        {
+          "name": "Tin Alkoum",
+          "codePostal": "33005"
+        }
+      ],
+      "34": [
+        {
+          "name": "Bordj Bou Arreridj",
+          "codePostal": "34000"
+        },
+        {
+          "name": "Rabta",
+          "codePostal": "34001"
+        },
+        {
+          "name": "El Achir",
+          "codePostal": "34002"
+        },
+        {
+          "name": "Ain Tesra",
+          "codePostal": "34003"
+        },
+        {
+          "name": "Tassameurt",
+          "codePostal": "34004"
+        },
+        {
+          "name": "Mansoura",
+          "codePostal": "34005"
+        },
+        {
+          "name": "Djaafra",
+          "codePostal": "34006"
+        },
+        {
+          "name": "Hasnaoua",
+          "codePostal": "34007"
+        },
+        {
+          "name": "Belimour",
+          "codePostal": "34008"
+        },
+        {
+          "name": "Ghilassa",
+          "codePostal": "34009"
+        },
+        {
+          "name": "El Hamadia",
+          "codePostal": "34010"
+        },
+        {
+          "name": "El Mons",
+          "codePostal": "34011"
+        },
+        {
+          "name": "Colla",
+          "codePostal": "34012"
+        },
+        {
+          "name": "Ras El Oued",
+          "codePostal": "34013"
+        },
+        {
+          "name": "El Main",
+          "codePostal": "34014"
+        },
+        {
+          "name": "Ben Daoud",
+          "codePostal": "34015"
+        },
+        {
+          "name": "Bir Kasdali",
+          "codePostal": "34016"
+        },
+        {
+          "name": "El Oulouja",
+          "codePostal": "34017"
+        },
+        {
+          "name": "Ridane",
+          "codePostal": "34018"
+        },
+        {
+          "name": "Bir Kasdali",
+          "codePostal": "34019"
+        },
+        {
+          "name": "Tixter",
+          "codePostal": "34020"
+        },
+        {
+          "name": "Hassi El Fedoul",
+          "codePostal": "34021"
+        },
+        {
+          "name": "Ouled Sidi Brahim",
+          "codePostal": "34022"
+        },
+        {
+          "name": "Medjana",
+          "codePostal": "34023"
+        },
+        {
+          "name": "Ain Taghrout",
+          "codePostal": "34024"
+        },
+        {
+          "name": "Ouled Ibrahim",
+          "codePostal": "34025"
+        },
+        {
+          "name": "Ras El Oued",
+          "codePostal": "34026"
+        },
+        {
+          "name": "El Euch",
+          "codePostal": "34027"
+        },
+        {
+          "name": "Khelil",
+          "codePostal": "34028"
+        },
+        {
+          "name": "Ouled Dahmane",
+          "codePostal": "34029"
+        },
+        {
+          "name": "Terrai Bainen",
+          "codePostal": "34030"
+        },
+        {
+          "name": "Taglait",
+          "codePostal": "34031"
+        },
+        {
+          "name": "Zemmora",
+          "codePostal": "34032"
+        },
+        {
+          "name": "Tesmart El Mhad",
+          "codePostal": "34033"
+        },
+        {
+          "name": "Ain Arab",
+          "codePostal": "34034"
+        },
+        {
+          "name": "Sidi Embarek",
+          "codePostal": "34035"
+        }
+      ],
+      "35": [
+        {
+          "name": "Boumerdes",
+          "codePostal": "35000"
+        },
+        {
+          "name": "Boudouaou",
+          "codePostal": "35001"
+        },
+        {
+          "name": "Isser",
+          "codePostal": "35002"
+        },
+        {
+          "name": "Khemis El Khechna",
+          "codePostal": "35003"
+        },
+        {
+          "name": "El Kharrouba",
+          "codePostal": "35004"
+        },
+        {
+          "name": "Si Mustapha",
+          "codePostal": "35005"
+        },
+        {
+          "name": "El Hamiz",
+          "codePostal": "35006"
+        },
+        {
+          "name": "Tidjelabine",
+          "codePostal": "35007"
+        },
+        {
+          "name": "Chabet El Ameur",
+          "codePostal": "35008"
+        },
+        {
+          "name": "Thenia",
+          "codePostal": "35009"
+        },
+        {
+          "name": "Boudouaou El Bahri",
+          "codePostal": "35010"
+        },
+        {
+          "name": "Ouled Aissa",
+          "codePostal": "35011"
+        },
+        {
+          "name": "Timezrit",
+          "codePostal": "35012"
+        },
+        {
+          "name": "Corso",
+          "codePostal": "35013"
+        },
+        {
+          "name": "Sidi Daoud",
+          "codePostal": "35014"
+        },
+        {
+          "name": "Naciria",
+          "codePostal": "35015"
+        },
+        {
+          "name": "Djinet",
+          "codePostal": "35016"
+        },
+        {
+          "name": "El Gdoura",
+          "codePostal": "35017"
+        },
+        {
+          "name": "Zemmouri",
+          "codePostal": "35018"
+        },
+        {
+          "name": "Si Mustapha",
+          "codePostal": "35019"
+        },
+        {
+          "name": "Baghlia",
+          "codePostal": "35020"
+        },
+        {
+          "name": "Sidi Naamane",
+          "codePostal": "35021"
+        },
+        {
+          "name": "Ouled Moussa",
+          "codePostal": "35022"
+        },
+        {
+          "name": "Bordj Menaiel",
+          "codePostal": "35023"
+        },
+        {
+          "name": "Ain Taya",
+          "codePostal": "35024"
+        },
+        {
+          "name": "Benchergui",
+          "codePostal": "35025"
+        },
+        {
+          "name": "Ammal",
+          "codePostal": "35026"
+        },
+        {
+          "name": "Beni Amrane",
+          "codePostal": "35027"
+        },
+        {
+          "name": "Souk El Had",
+          "codePostal": "35028"
+        },
+        {
+          "name": "Ouled Hedadj",
+          "codePostal": "35029"
+        },
+        {
+          "name": "Sidi Daoud",
+          "codePostal": "35030"
+        },
+        {
+          "name": "Cap Djinet",
+          "codePostal": "35031"
+        },
+        {
+          "name": "Hammedi",
+          "codePostal": "35032"
+        },
+        {
+          "name": "Larbatache",
+          "codePostal": "35033"
+        }
+      ],
+      "36": [
+        {
+          "name": "El Tarf",
+          "codePostal": "36000"
+        },
+        {
+          "name": "Ben Mehidi",
+          "codePostal": "36001"
+        },
+        {
+          "name": "Boutheldja",
+          "codePostal": "36002"
+        },
+        {
+          "name": "Berrihane",
+          "codePostal": "36003"
+        },
+        {
+          "name": "Besbes",
+          "codePostal": "36004"
+        },
+        {
+          "name": "Bouhadjar",
+          "codePostal": "36005"
+        },
+        {
+          "name": "Ain El Assel",
+          "codePostal": "36006"
+        },
+        {
+          "name": "Ain Kerma",
+          "codePostal": "36007"
+        },
+        {
+          "name": "Drean",
+          "codePostal": "36008"
+        },
+        {
+          "name": "Chbaita Mokhtar",
+          "codePostal": "36009"
+        },
+        {
+          "name": "Lac Des Oiseaux",
+          "codePostal": "36010"
+        },
+        {
+          "name": "El Kala",
+          "codePostal": "36011"
+        },
+        {
+          "name": "Ain Assel",
+          "codePostal": "36012"
+        },
+        {
+          "name": "Zerizer",
+          "codePostal": "36013"
+        },
+        {
+          "name": "Souarekh",
+          "codePostal": "36014"
+        },
+        {
+          "name": "El Ayoun",
+          "codePostal": "36015"
+        },
+        {
+          "name": "Ouled Zouai",
+          "codePostal": "36016"
+        },
+        {
+          "name": "Hammamet",
+          "codePostal": "36017"
+        },
+        {
+          "name": "Oued Zitoun",
+          "codePostal": "36018"
+        },
+        {
+          "name": "Oum Teboul",
+          "codePostal": "36019"
+        },
+        {
+          "name": "El Tarf",
+          "codePostal": "36020"
+        },
+        {
+          "name": "Bouteldja",
+          "codePostal": "36021"
+        },
+        {
+          "name": "El Aioun",
+          "codePostal": "36022"
+        },
+        {
+          "name": "Souarekh",
+          "codePostal": "36023"
+        }
+      ],
+      "37": [
+        {
+          "name": "Tindouf",
+          "codePostal": "37000"
+        },
+        {
+          "name": "Oum El Assel",
+          "codePostal": "37001"
+        }
+      ],
+      "38": [
+        {
+          "name": "Tissemsilt",
+          "codePostal": "38000"
+        },
+        {
+          "name": "Lardjem",
+          "codePostal": "38001"
+        },
+        {
+          "name": "Ouled Bessem",
+          "codePostal": "38002"
+        },
+        {
+          "name": "Khemisti",
+          "codePostal": "38003"
+        },
+        {
+          "name": "Ammari",
+          "codePostal": "38004"
+        },
+        {
+          "name": "Lazharia",
+          "codePostal": "38005"
+        },
+        {
+          "name": "Melaab",
+          "codePostal": "38006"
+        },
+        {
+          "name": "Ain Boucif",
+          "codePostal": "38007"
+        },
+        {
+          "name": "Sidi Slimane",
+          "codePostal": "38008"
+        },
+        {
+          "name": "Sidi Boutouchent",
+          "codePostal": "38009"
+        },
+        {
+          "name": "Bordj Bou Naama",
+          "codePostal": "38010"
+        },
+        {
+          "name": "Bordj El Emir Abdelkader",
+          "codePostal": "38011"
+        },
+        {
+          "name": "Benairia",
+          "codePostal": "38012"
+        },
+        {
+          "name": "El Bousaada",
+          "codePostal": "38013"
+        },
+        {
+          "name": "Theniet El Had",
+          "codePostal": "38014"
+        },
+        {
+          "name": "Beni Lahcene",
+          "codePostal": "38015"
+        },
+        {
+          "name": "Sidi Lantri",
+          "codePostal": "38016"
+        },
+        {
+          "name": "Youssoufia",
+          "codePostal": "38017"
+        },
+        {
+          "name": "Ain Dzarit",
+          "codePostal": "38018"
+        },
+        {
+          "name": "Boucaid",
+          "codePostal": "38019"
+        },
+        {
+          "name": "Lazharia",
+          "codePostal": "38020"
+        }
+      ],
+      "39": [
+        {
+          "name": "El Oued",
+          "codePostal": "39000"
+        },
+        {
+          "name": "Robbah",
+          "codePostal": "39001"
+        },
+        {
+          "name": "Oued El Alenda",
+          "codePostal": "39002"
+        },
+        {
+          "name": "Bayadha",
+          "codePostal": "39003"
+        },
+        {
+          "name": "Nakhla",
+          "codePostal": "39004"
+        },
+        {
+          "name": "Guemar",
+          "codePostal": "39005"
+        },
+        {
+          "name": "Kouinine",
+          "codePostal": "39006"
+        },
+        {
+          "name": "Reguiba",
+          "codePostal": "39007"
+        },
+        {
+          "name": "Hamraia",
+          "codePostal": "39008"
+        },
+        {
+          "name": "Taghzout",
+          "codePostal": "39009"
+        },
+        {
+          "name": "Debila",
+          "codePostal": "39010"
+        },
+        {
+          "name": "Hassani Abdelkrim",
+          "codePostal": "39011"
+        },
+        {
+          "name": "Hassi Khalifa",
+          "codePostal": "39012"
+        },
+        {
+          "name": "Taleb Larbi",
+          "codePostal": "39013"
+        },
+        {
+          "name": "Douar El Ma",
+          "codePostal": "39014"
+        },
+        {
+          "name": "Still",
+          "codePostal": "39015"
+        },
+        {
+          "name": "Mih Ouensa",
+          "codePostal": "39016"
+        },
+        {
+          "name": "Mrara",
+          "codePostal": "39017"
+        },
+        {
+          "name": "Sidi Aoun",
+          "codePostal": "39018"
+        },
+        {
+          "name": "Trifaoui",
+          "codePostal": "39019"
+        },
+        {
+          "name": "Magrane",
+          "codePostal": "39020"
+        },
+        {
+          "name": "Beni Guecha",
+          "codePostal": "39021"
+        },
+        {
+          "name": "Ourmas",
+          "codePostal": "39022"
+        },
+        {
+          "name": "El Ogla",
+          "codePostal": "39023"
+        },
+        {
+          "name": "Sidi Slimane",
+          "codePostal": "39024"
+        },
+        {
+          "name": "Sidi Aoun",
+          "codePostal": "39025"
+        },
+        {
+          "name": "Hamraia",
+          "codePostal": "39026"
+        },
+        {
+          "name": "Trifaoui",
+          "codePostal": "39027"
+        },
+        {
+          "name": "Ogla",
+          "codePostal": "39028"
+        },
+        {
+          "name": "Still",
+          "codePostal": "39029"
+        },
+        {
+          "name": "Oued El Alenda",
+          "codePostal": "39030"
+        }
+      ],
+      "40": [
+        {
+          "name": "Khenchela",
+          "codePostal": "40000"
+        },
+        {
+          "name": "Babar",
+          "codePostal": "40001"
+        },
+        {
+          "name": "Ouled Rechache",
+          "codePostal": "40002"
+        },
+        {
+          "name": "El Mahmel",
+          "codePostal": "40003"
+        },
+        {
+          "name": "Yabous",
+          "codePostal": "40004"
+        },
+        {
+          "name": "Bouhmama",
+          "codePostal": "40005"
+        },
+        {
+          "name": "Ain Touila",
+          "codePostal": "40006"
+        },
+        {
+          "name": "Kaïs",
+          "codePostal": "40007"
+        },
+        {
+          "name": "Henchir Toumghani",
+          "codePostal": "40008"
+        },
+        {
+          "name": "Cherchar",
+          "codePostal": "40009"
+        },
+        {
+          "name": "El Oueldja",
+          "codePostal": "40010"
+        },
+        {
+          "name": "Remila",
+          "codePostal": "40011"
+        },
+        {
+          "name": "Ensigha",
+          "codePostal": "40012"
+        },
+        {
+          "name": "Ain Touila",
+          "codePostal": "40013"
+        },
+        {
+          "name": "Messara",
+          "codePostal": "40014"
+        },
+        {
+          "name": "Khirane",
+          "codePostal": "40015"
+        },
+        {
+          "name": "El Hamma",
+          "codePostal": "40016"
+        },
+        {
+          "name": "Baghai",
+          "codePostal": "40017"
+        },
+        {
+          "name": "Tamza",
+          "codePostal": "40018"
+        },
+        {
+          "name": "El Ouldja",
+          "codePostal": "40019"
+        },
+        {
+          "name": "Chelia",
+          "codePostal": "40020"
+        }
+      ],
+      "41": [
+        {
+          "name": "Souk Ahras",
+          "codePostal": "41000"
+        },
+        {
+          "name": "Sedrata",
+          "codePostal": "41001"
+        },
+        {
+          "name": "Hanancha",
+          "codePostal": "41002"
+        },
+        {
+          "name": "Mechroha",
+          "codePostal": "41003"
+        },
+        {
+          "name": "Henancha",
+          "codePostal": "41004"
+        },
+        {
+          "name": "Ain Zana",
+          "codePostal": "41005"
+        },
+        {
+          "name": "Ain Soltane",
+          "codePostal": "41006"
+        },
+        {
+          "name": "Oued Keberit",
+          "codePostal": "41007"
+        },
+        {
+          "name": "Ain Zitoun",
+          "codePostal": "41008"
+        },
+        {
+          "name": "Terraguelt",
+          "codePostal": "41009"
+        },
+        {
+          "name": "Tiffech",
+          "codePostal": "41010"
+        },
+        {
+          "name": "Ragouba",
+          "codePostal": "41011"
+        },
+        {
+          "name": "Ouillen",
+          "codePostal": "41012"
+        },
+        {
+          "name": "Bir Bou Hocine",
+          "codePostal": "41013"
+        },
+        {
+          "name": "M'Daourouch",
+          "codePostal": "41014"
+        },
+        {
+          "name": "Ouled Driss",
+          "codePostal": "41015"
+        },
+        {
+          "name": "Taoura",
+          "codePostal": "41016"
+        },
+        {
+          "name": "Sidi Fredj",
+          "codePostal": "41017"
+        },
+        {
+          "name": "Drea",
+          "codePostal": "41018"
+        },
+        {
+          "name": "Zaarouria",
+          "codePostal": "41019"
+        },
+        {
+          "name": "Khedara",
+          "codePostal": "41020"
+        },
+        {
+          "name": "Ain Zana",
+          "codePostal": "41021"
+        },
+        {
+          "name": "Oued Mokhtar",
+          "codePostal": "41022"
+        },
+        {
+          "name": "Merahna",
+          "codePostal": "41023"
+        },
+        {
+          "name": "El Aouinet",
+          "codePostal": "41024"
+        },
+        {
+          "name": "Sidi Fredj",
+          "codePostal": "41025"
+        },
+        {
+          "name": "Ouled Moumen",
+          "codePostal": "41026"
+        },
+        {
+          "name": "Ain Zitoun",
+          "codePostal": "41027"
+        },
+        {
+          "name": "El Aouinet",
+          "codePostal": "41028"
+        },
+        {
+          "name": "Ain El Kriche",
+          "codePostal": "41029"
+        },
+        {
+          "name": "Haddada",
+          "codePostal": "41030"
+        },
+        {
+          "name": "Bir Bou Hocine",
+          "codePostal": "41031"
+        },
+        {
+          "name": "Khedara",
+          "codePostal": "41032"
+        }
+      ],
+      "42": [
+        {
+          "name": "Tipaza",
+          "codePostal": "42000"
+        },
+        {
+          "name": "Menaceur",
+          "codePostal": "42001"
+        },
+        {
+          "name": "Larhat",
+          "codePostal": "42002"
+        },
+        {
+          "name": "Douaouda",
+          "codePostal": "42003"
+        },
+        {
+          "name": "Bou Ismail",
+          "codePostal": "42004"
+        },
+        {
+          "name": "Ahriche",
+          "codePostal": "42005"
+        },
+        {
+          "name": "Ahmar El Ain",
+          "codePostal": "42006"
+        },
+        {
+          "name": "Chenoua",
+          "codePostal": "42007"
+        },
+        {
+          "name": "Gouraya",
+          "codePostal": "42008"
+        },
+        {
+          "name": "Damous",
+          "codePostal": "42009"
+        },
+        {
+          "name": "Ain Tagourait",
+          "codePostal": "42010"
+        },
+        {
+          "name": "Nador",
+          "codePostal": "42011"
+        },
+        {
+          "name": "Kolea",
+          "codePostal": "42012"
+        },
+        {
+          "name": "Sidi Ghiles",
+          "codePostal": "42013"
+        },
+        {
+          "name": "Chaib",
+          "codePostal": "42014"
+        },
+        {
+          "name": "Aghlal",
+          "codePostal": "42015"
+        },
+        {
+          "name": "Hadjout",
+          "codePostal": "42016"
+        },
+        {
+          "name": "Fouka",
+          "codePostal": "42017"
+        },
+        {
+          "name": "Sidi Semiane",
+          "codePostal": "42018"
+        },
+        {
+          "name": "Ain Tagourait",
+          "codePostal": "42019"
+        },
+        {
+          "name": "Sidi Amar",
+          "codePostal": "42020"
+        },
+        {
+          "name": "Attatba",
+          "codePostal": "42021"
+        },
+        {
+          "name": "Cherchell",
+          "codePostal": "42022"
+        },
+        {
+          "name": "Sidi Ghiles",
+          "codePostal": "42023"
+        },
+        {
+          "name": "Bourkika",
+          "codePostal": "42024"
+        },
+        {
+          "name": "Meurad",
+          "codePostal": "42025"
+        },
+        {
+          "name": "Ahmar El Ain",
+          "codePostal": "42026"
+        },
+        {
+          "name": "Bou Haroun",
+          "codePostal": "42027"
+        },
+        {
+          "name": "El Nador",
+          "codePostal": "42028"
+        }
+      ],
+      "43": [
+        {
+          "name": "Mila",
+          "codePostal": "43000"
+        },
+        {
+          "name": "Ferdjioua",
+          "codePostal": "43001"
+        },
+        {
+          "name": "Chelghoum Laïd",
+          "codePostal": "43002"
+        },
+        {
+          "name": "Tassadane Haddada",
+          "codePostal": "43003"
+        },
+        {
+          "name": "Oued Athmenia",
+          "codePostal": "43004"
+        },
+        {
+          "name": "Ain Mellouk",
+          "codePostal": "43005"
+        },
+        {
+          "name": "Ain Tine",
+          "codePostal": "43006"
+        },
+        {
+          "name": "Sidi Merouane",
+          "codePostal": "43007"
+        },
+        {
+          "name": "Teleghma",
+          "codePostal": "43008"
+        },
+        {
+          "name": "Tadjenanet",
+          "codePostal": "43009"
+        },
+        {
+          "name": "El Mechira",
+          "codePostal": "43010"
+        },
+        {
+          "name": "Grarem Gouga",
+          "codePostal": "43011"
+        },
+        {
+          "name": "Benyahia Abderrahmane",
+          "codePostal": "43012"
+        },
+        {
+          "name": "Oued Seguen",
+          "codePostal": "43013"
+        },
+        {
+          "name": "El Ayadi Mohammed Belhadj",
+          "codePostal": "43014"
+        },
+        {
+          "name": "Ain Beida Harriche",
+          "codePostal": "43015"
+        },
+        {
+          "name": "Hamala",
+          "codePostal": "43016"
+        },
+        {
+          "name": "Zeghaia",
+          "codePostal": "43017"
+        },
+        {
+          "name": "Ain Beida Harriche",
+          "codePostal": "43018"
+        },
+        {
+          "name": "Bouhatem",
+          "codePostal": "43019"
+        },
+        {
+          "name": "Ahmed Rachedi",
+          "codePostal": "43020"
+        },
+        {
+          "name": "Rouached",
+          "codePostal": "43021"
+        },
+        {
+          "name": "Derradji Bousselah",
+          "codePostal": "43022"
+        },
+        {
+          "name": "Dehamcha",
+          "codePostal": "43023"
+        },
+        {
+          "name": "Ain Mellouk",
+          "codePostal": "43024"
+        },
+        {
+          "name": "Tiberguent",
+          "codePostal": "43025"
+        },
+        {
+          "name": "Oued Khrouf",
+          "codePostal": "43026"
+        },
+        {
+          "name": "Sidi Khelifa",
+          "codePostal": "43027"
+        },
+        {
+          "name": "Ouled Khalouf",
+          "codePostal": "43028"
+        },
+        {
+          "name": "Sidi Merouane",
+          "codePostal": "43029"
+        },
+        {
+          "name": "Zeghaia",
+          "codePostal": "43030"
+        },
+        {
+          "name": "Tassadane Haddada",
+          "codePostal": "43031"
+        },
+        {
+          "name": "El Mechira",
+          "codePostal": "43032"
+        }
+      ],
+      "44": [
+        {
+          "name": "Ain Defla",
+          "codePostal": "44000"
+        },
+        {
+          "name": "El Attaf",
+          "codePostal": "44001"
+        },
+        {
+          "name": "Ain Lechiakh",
+          "codePostal": "44002"
+        },
+        {
+          "name": "Mekhatria",
+          "codePostal": "44003"
+        },
+        {
+          "name": "Hammam Righa",
+          "codePostal": "44004"
+        },
+        {
+          "name": "Arib",
+          "codePostal": "44005"
+        },
+        {
+          "name": "El Amra",
+          "codePostal": "44006"
+        },
+        {
+          "name": "Oued Chorfa",
+          "codePostal": "44007"
+        },
+        {
+          "name": "Ain Lechiekh",
+          "codePostal": "44008"
+        },
+        {
+          "name": "El Attaf",
+          "codePostal": "44009"
+        },
+        {
+          "name": "Ain Beniane",
+          "codePostal": "44010"
+        },
+        {
+          "name": "Sidi Lakhdar",
+          "codePostal": "44011"
+        },
+        {
+          "name": "Arib",
+          "codePostal": "44012"
+        },
+        {
+          "name": "Hoceinia",
+          "codePostal": "44013"
+        },
+        {
+          "name": "Djemaa Ouled Chikh",
+          "codePostal": "44014"
+        },
+        {
+          "name": "Zeddine",
+          "codePostal": "44015"
+        },
+        {
+          "name": "Ain Soltane",
+          "codePostal": "44016"
+        },
+        {
+          "name": "Rouina",
+          "codePostal": "44017"
+        },
+        {
+          "name": "Bourached",
+          "codePostal": "44018"
+        },
+        {
+          "name": "Khemis Miliana",
+          "codePostal": "44019"
+        },
+        {
+          "name": "Ain Torki",
+          "codePostal": "44020"
+        },
+        {
+          "name": "Jendel",
+          "codePostal": "44021"
+        },
+        {
+          "name": "Bir Ould Khelifa",
+          "codePostal": "44022"
+        },
+        {
+          "name": "Tacheta Zougagha",
+          "codePostal": "44023"
+        },
+        {
+          "name": "Arib",
+          "codePostal": "44024"
+        },
+        {
+          "name": "Oued El Djemaa",
+          "codePostal": "44025"
+        },
+        {
+          "name": "Ain Lechiakh",
+          "codePostal": "44026"
+        },
+        {
+          "name": "Ben Allal",
+          "codePostal": "44027"
+        },
+        {
+          "name": "El Abadia",
+          "codePostal": "44028"
+        },
+        {
+          "name": "Boumedfaa",
+          "codePostal": "44029"
+        },
+        {
+          "name": "Tarik Ibn Ziad",
+          "codePostal": "44030"
+        },
+        {
+          "name": "Djendel",
+          "codePostal": "44031"
+        },
+        {
+          "name": "Ain Torki",
+          "codePostal": "44032"
+        },
+        {
+          "name": "Oued Koriche",
+          "codePostal": "44033"
+        },
+        {
+          "name": "Birine",
+          "codePostal": "44034"
+        },
+        {
+          "name": "Miliana",
+          "codePostal": "44035"
+        },
+        {
+          "name": "Hammam Righa",
+          "codePostal": "44036"
+        }
+      ],
+      "45": [
+        {
+          "name": "Naama",
+          "codePostal": "45000"
+        },
+        {
+          "name": "Mecheria",
+          "codePostal": "45001"
+        },
+        {
+          "name": "Ain Sefra",
+          "codePostal": "45002"
+        },
+        {
+          "name": "Tiout",
+          "codePostal": "45003"
+        },
+        {
+          "name": "Sfissifa",
+          "codePostal": "45004"
+        },
+        {
+          "name": "Moghrar",
+          "codePostal": "45005"
+        },
+        {
+          "name": "Asla",
+          "codePostal": "45006"
+        },
+        {
+          "name": "Djeniene Bourezg",
+          "codePostal": "45007"
+        },
+        {
+          "name": "El Biod",
+          "codePostal": "45008"
+        },
+        {
+          "name": "Ain Ben Khelil",
+          "codePostal": "45009"
+        },
+        {
+          "name": "Mekmen Ben Amar",
+          "codePostal": "45010"
+        },
+        {
+          "name": "Kasdir",
+          "codePostal": "45011"
+        }
+      ],
+      "46": [
+        {
+          "name": "Ain Temouchent",
+          "codePostal": "46000"
+        },
+        {
+          "name": "Ain Kihal",
+          "codePostal": "46001"
+        },
+        {
+          "name": "Ain El Arba",
+          "codePostal": "46002"
+        },
+        {
+          "name": "Oued Berkeche",
+          "codePostal": "46003"
+        },
+        {
+          "name": "Beni Saf",
+          "codePostal": "46004"
+        },
+        {
+          "name": "El Malah",
+          "codePostal": "46005"
+        },
+        {
+          "name": "Ain Tolba",
+          "codePostal": "46006"
+        },
+        {
+          "name": "Hammam Bou Hadjar",
+          "codePostal": "46007"
+        },
+        {
+          "name": "Oulhaça El Gheraba",
+          "codePostal": "46008"
+        },
+        {
+          "name": "Sidi Ben Adda",
+          "codePostal": "46009"
+        },
+        {
+          "name": "El Amria",
+          "codePostal": "46010"
+        },
+        {
+          "name": "Sidi Safi",
+          "codePostal": "46011"
+        },
+        {
+          "name": "El Hassasna",
+          "codePostal": "46012"
+        },
+        {
+          "name": "Oued Sabah",
+          "codePostal": "46013"
+        },
+        {
+          "name": "Terga",
+          "codePostal": "46014"
+        },
+        {
+          "name": "Aghlal",
+          "codePostal": "46015"
+        },
+        {
+          "name": "Ain El Arba",
+          "codePostal": "46016"
+        },
+        {
+          "name": "Ouled Boudjemaa",
+          "codePostal": "46017"
+        },
+        {
+          "name": "Ain Kihal",
+          "codePostal": "46018"
+        },
+        {
+          "name": "Hassasna",
+          "codePostal": "46019"
+        },
+        {
+          "name": "El Emir Abdelkader",
+          "codePostal": "46020"
+        },
+        {
+          "name": "Chentouf",
+          "codePostal": "46021"
+        },
+        {
+          "name": "Taachacht",
+          "codePostal": "46022"
+        },
+        {
+          "name": "Hassi El Ghella",
+          "codePostal": "46023"
+        },
+        {
+          "name": "Sidi Ben Adda",
+          "codePostal": "46024"
+        }
+      ],
+      "47": [
+        {
+          "name": "Ghardaia",
+          "codePostal": "47000"
+        },
+        {
+          "name": "Zelfana",
+          "codePostal": "47001"
+        },
+        {
+          "name": "El Menia",
+          "codePostal": "47002"
+        },
+        {
+          "name": "El Atteuf",
+          "codePostal": "47003"
+        },
+        {
+          "name": "Bou Noura",
+          "codePostal": "47004"
+        },
+        {
+          "name": "Metlili",
+          "codePostal": "47005"
+        },
+        {
+          "name": "Berriane",
+          "codePostal": "47006"
+        },
+        {
+          "name": "Daya Ben Dahoua",
+          "codePostal": "47007"
+        },
+        {
+          "name": "Guerrara",
+          "codePostal": "47008"
+        },
+        {
+          "name": "Mansoura",
+          "codePostal": "47009"
+        },
+        {
+          "name": "Hassi El Fhel",
+          "codePostal": "47010"
+        },
+        {
+          "name": "Sebseb",
+          "codePostal": "47011"
+        },
+        {
+          "name": "Zaccar",
+          "codePostal": "47012"
+        },
+        {
+          "name": "El Menia",
+          "codePostal": "47013"
+        }
+      ],
+      "48": [
+        {
+          "name": "Relizane",
+          "codePostal": "48000"
+        },
+        {
+          "name": "Ramka",
+          "codePostal": "48001"
+        },
+        {
+          "name": "El Matmar",
+          "codePostal": "48002"
+        },
+        {
+          "name": "Mazouna",
+          "codePostal": "48003"
+        },
+        {
+          "name": "Sidi M'Hamed Ben Ali",
+          "codePostal": "48004"
+        },
+        {
+          "name": "Oued El Djemaa",
+          "codePostal": "48005"
+        },
+        {
+          "name": "Belaassel Bouzegza",
+          "codePostal": "48006"
+        },
+        {
+          "name": "Yellel",
+          "codePostal": "48007"
+        },
+        {
+          "name": "Sidi Khettab",
+          "codePostal": "48008"
+        },
+        {
+          "name": "Had Echkalla",
+          "codePostal": "48009"
+        },
+        {
+          "name": "Sidi Lazreg",
+          "codePostal": "48010"
+        },
+        {
+          "name": "Lahlef",
+          "codePostal": "48011"
+        },
+        {
+          "name": "Ain Rahma",
+          "codePostal": "48012"
+        },
+        {
+          "name": "Ain Tarek",
+          "codePostal": "48013"
+        },
+        {
+          "name": "Ammi Moussa",
+          "codePostal": "48014"
+        },
+        {
+          "name": "Oued Essalem",
+          "codePostal": "48015"
+        },
+        {
+          "name": "El Hamadna",
+          "codePostal": "48016"
+        },
+        {
+          "name": "Beni Dergoun",
+          "codePostal": "48017"
+        },
+        {
+          "name": "Oued Rhiou",
+          "codePostal": "48018"
+        },
+        {
+          "name": "Kalaa",
+          "codePostal": "48019"
+        },
+        {
+          "name": "Ouled Sidi Mihoub",
+          "codePostal": "48020"
+        },
+        {
+          "name": "Mediouna",
+          "codePostal": "48021"
+        },
+        {
+          "name": "Dar Ben Abdellah",
+          "codePostal": "48022"
+        },
+        {
+          "name": "Djidiouia",
+          "codePostal": "48023"
+        },
+        {
+          "name": "Ouarizane",
+          "codePostal": "48024"
+        },
+        {
+          "name": "El Guettar",
+          "codePostal": "48025"
+        },
+        {
+          "name": "Merdja Sidi Abed",
+          "codePostal": "48026"
+        },
+        {
+          "name": "Bendaoud",
+          "codePostal": "48027"
+        },
+        {
+          "name": "Mendes",
+          "codePostal": "48028"
+        },
+        {
+          "name": "Hamri",
+          "codePostal": "48029"
+        },
+        {
+          "name": "Souk El Had",
+          "codePostal": "48030"
+        },
+        {
+          "name": "Sidi Saad",
+          "codePostal": "48031"
+        },
+        {
+          "name": "Ain El Hamam",
+          "codePostal": "48032"
+        },
+        {
+          "name": "Ain El Hamara",
+          "codePostal": "48033"
+        },
+        {
+          "name": "Sidi Abdelkader",
+          "codePostal": "48034"
+        },
+        {
+          "name": "Sidi Ahmed",
+          "codePostal": "48035"
+        }
+      ],
+      "49": [
+        {
+          "name": "Timimoun",
+          "codePostal": "49000"
+        },
+        {
+          "name": "Aougrout",
+          "codePostal": "49001"
+        },
+        {
+          "name": "Talmine",
+          "codePostal": "49002"
+        },
+        {
+          "name": "Charouine",
+          "codePostal": "49003"
+        },
+        {
+          "name": "Deldoul",
+          "codePostal": "49004"
+        },
+        {
+          "name": "Ouled Said",
+          "codePostal": "49005"
+        },
+        {
+          "name": "Tinerkouk",
+          "codePostal": "49006"
+        },
+        {
+          "name": "Metarfa",
+          "codePostal": "49007"
+        }
+      ],
+      "50": [
+        {
+          "name": "Bordj Badji Mokhtar",
+          "codePostal": "50000"
+        },
+        {
+          "name": "Timiaouine",
+          "codePostal": "50001"
+        }
+      ],
+      "51": [
+        {
+          "name": "Ouled Djellal",
+          "codePostal": "51000"
+        },
+        {
+          "name": "Sidi Khaled",
+          "codePostal": "51001"
+        },
+        {
+          "name": "Ras El Miad",
+          "codePostal": "51002"
+        },
+        {
+          "name": "Doucen",
+          "codePostal": "51003"
+        },
+        {
+          "name": "El Ghrous",
+          "codePostal": "51004"
+        },
+        {
+          "name": "Besbes",
+          "codePostal": "51005"
+        }
+      ],
+      "52": [
+        {
+          "name": "Beni Abbes",
+          "codePostal": "52000"
+        },
+        {
+          "name": "El Ouata",
+          "codePostal": "52001"
+        },
+        {
+          "name": "Kerzaz",
+          "codePostal": "52002"
+        },
+        {
+          "name": "Ksabi",
+          "codePostal": "52003"
+        },
+        {
+          "name": "Tamtert",
+          "codePostal": "52004"
+        }
+      ],
+      "53": [
+        {
+          "name": "In Salah",
+          "codePostal": "53000"
+        },
+        {
+          "name": "Foggaret Ezzaouia",
+          "codePostal": "53001"
+        },
+        {
+          "name": "In Ghar",
+          "codePostal": "53002"
+        },
+        {
+          "name": "Aoulef",
+          "codePostal": "53003"
+        },
+        {
+          "name": "Timokten",
+          "codePostal": "53004"
+        }
+      ],
+      "54": [
+        {
+          "name": "In Guezzam",
+          "codePostal": "54000"
+        },
+        {
+          "name": "Tin Zaouatine",
+          "codePostal": "54001"
+        }
+      ],
+      "55": [
+        {
+          "name": "Touggourt",
+          "codePostal": "55000"
+        },
+        {
+          "name": "Temacine",
+          "codePostal": "55001"
+        },
+        {
+          "name": "Tamelhat",
+          "codePostal": "55002"
+        },
+        {
+          "name": "Megarine",
+          "codePostal": "55003"
+        },
+        {
+          "name": "El Allia",
+          "codePostal": "55004"
+        },
+        {
+          "name": "Nezla",
+          "codePostal": "55005"
+        },
+        {
+          "name": "Zaouia El Abidia",
+          "codePostal": "55006"
+        },
+        {
+          "name": "Blidet Amor",
+          "codePostal": "55007"
+        },
+        {
+          "name": "Taibet",
+          "codePostal": "55008"
+        },
+        {
+          "name": "Tebesbest",
+          "codePostal": "55009"
+        }
+      ],
+      "56": [
+        {
+          "name": "Djanet",
+          "codePostal": "56000"
+        },
+        {
+          "name": "Bordj El Haouès",
+          "codePostal": "56001"
+        }
+      ],
+      "57": [
+        {
+          "name": "El M'Ghair",
+          "codePostal": "57000"
+        },
+        {
+          "name": "Djamaa",
+          "codePostal": "57001"
+        },
+        {
+          "name": "Sidi Aoun",
+          "codePostal": "57002"
+        },
+        {
+          "name": "Still",
+          "codePostal": "57003"
+        },
+        {
+          "name": "Hamraia",
+          "codePostal": "57004"
+        },
+        {
+          "name": "Mih Ouensa",
+          "codePostal": "57005"
+        },
+        {
+          "name": "Mrara",
+          "codePostal": "57006"
+        },
+        {
+          "name": "Oued El Alenda",
+          "codePostal": "57007"
+        }
+      ],
+      "58": [
+        {
+          "name": "El Meniaa",
+          "codePostal": "58000"
+        },
+        {
+          "name": "Hassi El Fhel",
+          "codePostal": "58001"
+        },
+        {
+          "name": "El Meniaa Centre",
+          "codePostal": "58002"
+        }
+      ],
+      "59": [
+        {
+          "name": "Aflou",
+          "codePostal": "59000"
+        },
+        {
+          "name": "Ain El Ibel",
+          "codePostal": "59001"
+        },
+        {
+          "name": "Hadj Mechri",
+          "codePostal": "59002"
+        },
+        {
+          "name": "Sidi Bouzid",
+          "codePostal": "59003"
+        },
+        {
+          "name": "Oued M'Zi",
+          "codePostal": "59004"
+        }
+      ],
+      "60": [
+        {
+          "name": "Barika",
+          "codePostal": "60000"
+        },
+        {
+          "name": "Boumagueur",
+          "codePostal": "60001"
+        },
+        {
+          "name": "Oued Taga",
+          "codePostal": "60002"
+        },
+        {
+          "name": "N'gaous",
+          "codePostal": "60003"
+        },
+        {
+          "name": "Ain Djasser",
+          "codePostal": "60004"
+        }
+      ],
+      "61": [
+        {
+          "name": "Ksar Chellala",
+          "codePostal": "61000"
+        },
+        {
+          "name": "Aïn Bouyahia",
+          "codePostal": "61001"
+        },
+        {
+          "name": "Nador",
+          "codePostal": "61002"
+        },
+        {
+          "name": "Guirgour",
+          "codePostal": "61003"
+        }
+      ],
+      "62": [
+        {
+          "name": "Messaad",
+          "codePostal": "62000"
+        },
+        {
+          "name": "Ain Chouhada",
+          "codePostal": "62001"
+        },
+        {
+          "name": "El Guedid",
+          "codePostal": "62002"
+        },
+        {
+          "name": "Had El Sahary",
+          "codePostal": "62003"
+        }
+      ],
+      "63": [
+        {
+          "name": "Ain Oussara",
+          "codePostal": "63000"
+        },
+        {
+          "name": "Birine",
+          "codePostal": "63001"
+        },
+        {
+          "name": "Guernini",
+          "codePostal": "63002"
+        },
+        {
+          "name": "El Idrissia",
+          "codePostal": "63003"
+        }
+      ],
+      "64": [
+        {
+          "name": "Boussaada",
+          "codePostal": "64000"
+        },
+        {
+          "name": "Bir Foda",
+          "codePostal": "64001"
+        },
+        {
+          "name": "Djebel Messaad",
+          "codePostal": "64002"
+        },
+        {
+          "name": "Ouled Mansour",
+          "codePostal": "64003"
+        },
+        {
+          "name": "Magra",
+          "codePostal": "64004"
+        }
+      ],
+      "65": [
+        {
+          "name": "El Abiodh Sidi Cheikh",
+          "codePostal": "65000"
+        },
+        {
+          "name": "Labiodh Sidi Cheikh",
+          "codePostal": "65001"
+        },
+        {
+          "name": "Brézina",
+          "codePostal": "65002"
+        },
+        {
+          "name": "Stitten",
+          "codePostal": "65003"
+        }
+      ],
+      "66": [
+        {
+          "name": "El Kantara",
+          "codePostal": "66000"
+        },
+        {
+          "name": "M'Chounech",
+          "codePostal": "66001"
+        },
+        {
+          "name": "Ain Zaatout",
+          "codePostal": "66002"
+        },
+        {
+          "name": "Djemorah",
+          "codePostal": "66003"
+        }
+      ],
+      "67": [
+        {
+          "name": "Bir El Ater",
+          "codePostal": "67000"
+        },
+        {
+          "name": "Ferkane",
+          "codePostal": "67001"
+        },
+        {
+          "name": "Negrine",
+          "codePostal": "67002"
+        },
+        {
+          "name": "El Ogla El Malha",
+          "codePostal": "67003"
+        }
+      ],
+      "68": [
+        {
+          "name": "Ksar El Boukhari",
+          "codePostal": "68000"
+        },
+        {
+          "name": "Boughezoul",
+          "codePostal": "68001"
+        },
+        {
+          "name": "Si Mahdjoub",
+          "codePostal": "68002"
+        },
+        {
+          "name": "Oued El Aneb",
+          "codePostal": "68003"
+        }
+      ],
+      "69": [
+        {
+          "name": "El Aricha",
+          "codePostal": "69000"
+        },
+        {
+          "name": "Beni Boussaid",
+          "codePostal": "69001"
+        },
+        {
+          "name": "Ain Fetah",
+          "codePostal": "69002"
+        },
+        {
+          "name": "El Gor",
+          "codePostal": "69003"
+        },
+        {
+          "name": "Msirda Fouaga",
+          "codePostal": "69004"
+        }
+      ]
+    }
+  }
