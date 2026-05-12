@@ -1,6 +1,4 @@
-// ignore_for_file: unnecessary_import, dangling_library_doc_comments
 
-/// Bouton principal PEECO
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:peeco/client/pages/peeco_colors.dart';

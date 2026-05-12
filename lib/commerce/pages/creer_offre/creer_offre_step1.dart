@@ -28,8 +28,7 @@ class NouvelleOffreData {
   // Étape 4
   final List<File> photos = [];
 
-  /// Payload "prêt backend" (hors upload images).
-  /// Les images doivent être envoyées en multipart (voir `photos`).
+
   Map<String, dynamic> toApiPayload() {
     return {
       'nom': nom,

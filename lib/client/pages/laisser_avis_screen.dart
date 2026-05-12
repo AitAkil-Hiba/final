@@ -1,14 +1,9 @@
-// ─────────────────────────────────────────────
-//  LAISSER UN AVIS — Écran dédié
-//  2 états : formulaire / confirmation
-// ─────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-// ─────────────────────────────────────────────
-// COULEURS (même palette que le projet)
-// ─────────────────────────────────────────────
+
 class _C {
   static const scaffold     = Color(0xFFE8E0CE);
   static const accent       = Color(0xFFE07B39);
@@ -50,7 +45,6 @@ class AvisCommercant {
 // ÉCRAN PRINCIPAL
 // ─────────────────────────────────────────────
 class LaisserAvisScreen extends StatefulWidget {
-  /// Passer le commerçant depuis la page précédente
   final AvisCommercant commercant;
 
   const LaisserAvisScreen({super.key, required this.commercant});
@@ -160,7 +154,6 @@ class _LaisserAvisScreenState extends State<LaisserAvisScreen> {
                   ? Image.asset(
                       c.imageAsset!,
                       fit: BoxFit.cover,
-                      // ignore: unnecessary_underscores
                       errorBuilder: (_, __, ___) => _imageFallback(c.categorie),
                     )
                   : _imageFallback(c.categorie),

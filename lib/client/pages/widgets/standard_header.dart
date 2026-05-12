@@ -1,6 +1,4 @@
-// ─────────────────────────────────────────────
-//  STANDARD HEADER - Consistent across all screens
-// ─────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 import 'package:peeco/client/pages/app_constants.dart';
@@ -46,10 +44,8 @@ class StandardHeader extends StatelessWidget implements PreferredSizeWidget {
           padding: const EdgeInsets.fromLTRB(20, 16, 20, 20),
           child: Column(
             children: [
-              // Top row: title/logo, location, trailing
               Row(
                 children: [
-                  // Back button
                   if (showBackButton && !showLogo)
                     GestureDetector(
                       onTap: onBackTap ?? () => Navigator.pop(context),
@@ -70,7 +66,6 @@ class StandardHeader extends StatelessWidget implements PreferredSizeWidget {
                   else if (showBackButton && showLogo)
                     const SizedBox(width: 40),
                   
-                  // Title or Logo
                   if (showLogo)
                     Image.asset(
                       'assets/images/laaisraf_logo.png',
@@ -103,7 +98,6 @@ class StandardHeader extends StatelessWidget implements PreferredSizeWidget {
                   
                   const Spacer(),
                   
-                  // Location
                   if (showLocation) ...[
                     const Icon(
                       Icons.location_on_outlined,
@@ -121,7 +115,6 @@ class StandardHeader extends StatelessWidget implements PreferredSizeWidget {
                     ),
                   ],
                   
-                  // Trailing widget
                   if (trailing != null) ...[
                     const SizedBox(width: 12),
                     trailing!
@@ -131,7 +124,6 @@ class StandardHeader extends StatelessWidget implements PreferredSizeWidget {
                 ],
               ),
               
-              // Search bar
               if (showSearchBar) ...[
                 const SizedBox(height: 12),
                 Container(

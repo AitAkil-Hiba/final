@@ -1,16 +1,4 @@
-// ─────────────────────────────────────────────
-//  PROFIL COMMERÇANT — VU PAR LE CLIENT
-//  Route : '/profil_commercant_client'
-//  Accès : tap sur une carte commerce dans HomeClientScreen
-//
-//  Usage :
-//    Navigator.pushNamed(
-//      context,
-//      '/profil_commercant_client',
-//      arguments: DonneesCommercant(...),  // optionnel
-//    );
-// ─────────────────────────────────────────────
-// ignore_for_file: unused_field, deprecated_member_use
+
  
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -46,7 +34,7 @@ class DonneesCommercant {
   final double note;
   final String revenus;
   final String description;
-  final String? logoAsset; // chemin asset ou null → initiales
+  final String? logoAsset; 
  
   const DonneesCommercant({
     required this.nom,
@@ -69,7 +57,6 @@ class ProfilCommercantClientScreen extends StatelessWidget {
  
   const ProfilCommercantClientScreen({super.key, this.commercant});
  
-  // Données fictives par défaut (démo / Burger House de la maquette)
   static const _demo = DonneesCommercant(
     nom:            'Burger House',
     email:          'Burgerhouse@email.com',
@@ -326,10 +313,7 @@ class ProfilCommercantClientScreen extends StatelessWidget {
   Widget _divV() =>
       Container(width: 1, height: 44, color: _C.divider);
  
-  // ─────────────────────────────────────────────
-  // CARTE REVENUS RÉCUPÉRÉS
-  // (visible sur le profil public — comme dans la maquette)
-  // ─────────────────────────────────────────────
+ 
   Widget _carteRevenus(DonneesCommercant d) {
     return Container(
       margin: const EdgeInsets.fromLTRB(16, 10, 16, 0),

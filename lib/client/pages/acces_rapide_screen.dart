@@ -1,18 +1,9 @@
-// ─────────────────────────────────────────────
-//  ACCÈS RAPIDE — Adresses favorites
-//  - Liste avec mode édition
-//  - Ajouter / Modifier / Supprimer
-// ─────────────────────────────────────────────
-// ignore_for_file: unnecessary_underscores, recursive_getters, non_constant_identifier_names, unused_element, no_leading_underscores_for_local_identifiers, prefer_final_fields, unused_field, deprecated_member_use
 
 import 'package:flutter/material.dart';
 import 'package:peeco/client/pages/app_constants.dart';
 import 'package:peeco/client/pages/widgets/standard_header.dart';
 import 'package:peeco/client/pages/widgets/standard_card.dart';
 
-// ─────────────────────────────────────────────
-// MODÈLE
-// ─────────────────────────────────────────────
 enum TypeAdresse { maison, universite, famille, travail, autre }
 
 extension TypeAdresseExt on TypeAdresse {
@@ -61,9 +52,7 @@ class AdresseFavorite {
   });
 }
 
-// ─────────────────────────────────────────────
-// DONNÉES FICTIVES
-// ─────────────────────────────────────────────
+
 final List<AdresseFavorite> _adresses = [
   AdresseFavorite(
     id: 'a1',
@@ -97,9 +86,7 @@ final List<AdresseFavorite> _adresses = [
   ),
 ];
 
-// ─────────────────────────────────────────────
-// ACCÈS RAPIDE SCREEN
-// ─────────────────────────────────────────────
+
 class AccesRapideScreen extends StatefulWidget {
   const AccesRapideScreen({super.key});
 
@@ -158,10 +145,8 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
                       ),
                     ),
                     const SizedBox(height: AppSpacing.md),
-                    // Liste adresses
                     ..._adresses.map((a) => _adresseItem(a)),
                     const SizedBox(height: AppSpacing.sm),
-                    // Bouton Ajouter
                     if (!_modeEdition) _boutonAjouter(),
                     const SizedBox(height: AppSpacing.xxl),
                   ],
@@ -174,9 +159,6 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // ITEM ADRESSE avec icône
-  // ─────────────────────────────────────────────
   Widget _adresseItem(AdresseFavorite a) {
     return Container(
       margin: const EdgeInsets.only(bottom: AppSpacing.md),
@@ -196,7 +178,6 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
         padding: const EdgeInsets.all(AppSpacing.md),
         child: Row(
           children: [
-            // Icône de type d'adresse
             Container(
               width: 50,
               height: 50,
@@ -211,7 +192,6 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
               ),
             ),
             const SizedBox(width: AppSpacing.md),
-            // Infos
             Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -237,7 +217,6 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
                 ],
               ),
             ),
-            // Actions (modifier/supprimer) en mode édition
             if (_modeEdition) ...[
               _editButton(a),
               const SizedBox(width: AppSpacing.sm),
@@ -289,9 +268,6 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // BOUTON AJOUTER avec icône
-  // ─────────────────────────────────────────────
   Widget _boutonAjouter() {
     return GestureDetector(
       onTap: () => _ouvrirAjouter(),
@@ -368,9 +344,7 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // BOTTOM SHEET — SUPPRIMER
-  // ─────────────────────────────────────────────
+ 
   void _confirmerSuppression(AdresseFavorite a) {
     showModalBottomSheet(
       context: context,
@@ -481,9 +455,7 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // BOTTOM SHEET — MODIFIER
-  // ─────────────────────────────────────────────
+ 
   void _ouvrirModifier(AdresseFavorite a) {
     showModalBottomSheet(
       context: context,
@@ -502,9 +474,7 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // BOTTOM SHEET — AJOUTER
-  // ─────────────────────────────────────────────
+  
   void _ouvrirAjouter() {
     showModalBottomSheet(
       context: context,
@@ -527,9 +497,7 @@ class _AccesRapideScreenState extends State<AccesRapideScreen> {
   }
 }
 
-// ─────────────────────────────────────────────
-// FORMULAIRE ADRESSE (Ajouter & Modifier)
-// ─────────────────────────────────────────────
+
 class _FormulaireAdresse extends StatefulWidget {
   final AdresseFavorite? adresse;
   final void Function(String nom, String adresse, TypeAdresse type) onSave;
@@ -602,7 +570,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Poignée
               Center(
                 child: Container(
                   width: 40,
@@ -633,7 +600,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
               ),
               const SizedBox(height: 20),
 
-              // Chips type (uniquement à l'ajout)
               if (!_estModif) ...[
                 const Text(
                   'Ajouter une adresse',
@@ -692,7 +658,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
                 const SizedBox(height: 20),
               ],
 
-              // Nom du lieu
               const Text(
                 'Nom du lieu',
                 style: TextStyle(
@@ -706,7 +671,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
 
               const SizedBox(height: 16),
 
-              // Adresse complète
               const Text(
                 'Adresse complète',
                 style: TextStyle(
@@ -720,7 +684,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
 
               const SizedBox(height: 12),
 
-              // Pinpoint carte
               GestureDetector(
                 onTap: () {},
                 child: Container(
@@ -752,7 +715,6 @@ class _FormulaireAdresseState extends State<_FormulaireAdresse> {
 
               const SizedBox(height: 24),
 
-              // Bouton Enregistrer
               GestureDetector(
                 onTap: _enregistrer,
                 child: Container(

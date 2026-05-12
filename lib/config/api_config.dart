@@ -1,13 +1,11 @@
 class ApiConfig {
-  // Backend URL (mise à jour avec la nouvelle URL)
   static const String baseUrl = 'https://tissue-squishy-refresh.ngrok-free.dev';
   //'https://disarray-striking-overbill.ngrok-free.dev';
 
-  // Header requis pour ngrok - À AJOUTER DANS TOUS LES APPELS HTTP
   static const String ngrokHeader = 'ngrok-skip-browser-warning';
   static const String ngrokHeaderValue = 'true';
 
-  // ==================== AUTHENTIFICATION (vos endpoints existants) ====================
+  // ==================== AUTHENTIFICATION  ====================
   static const String register = '/api/auth/register';
   static const String registerMerchant = '/api/auth/register-merchant-upload';
   static const String login = '/api/auth/login';
@@ -35,31 +33,31 @@ class ApiConfig {
   static const String updateOffer = '/api/offers';
   static const String deleteOffer = '/api/offers';
 
-  // ==================== RÉSERVATIONS (vos endpoints existants) ====================
+  // ==================== RÉSERVATIONS  ====================
   static const String createOrder = '/api/orders/create';
   static const String getOrders = '/api/orders';
   static const String getOrderById = '/api/orders';
   static const String updateOrderStatus = '/api/orders';
 
-  // ==================== AVIS (vos endpoints existants) ====================
+  // ==================== AVIS====================
   static const String createReview = '/api/reviews/create';
   static const String getReviews = '/api/reviews';
   static const String getMerchantReviews = '/api/reviews/merchant';
 
-  // ==================== SIGNALEMENTS (vos endpoints existants) ====================
+  // ==================== SIGNALEMENTS ====================
   static const String createReport = '/api/reports/create';
   static const String getReports = '/api/reports';
   static const String updateReportStatus = '/api/reports';
 
-  // ==================== STATISTIQUES (vos endpoints existants) ====================
+  // ==================== STATISTIQUES  ====================
   static const String merchantStats = '/api/stats/merchant';
   // Note: adminStats moved to ADMIN ENDPOINTS section below
 
-  // ==================== RECHERCHE (vos endpoints existants) ====================
+  // ==================== RECHERCHE  ====================
   static const String searchMerchants = '/api/search/merchants';
   static const String searchOffers = '/api/search/offers';
 
-  // ==================== ADMIN ENDPOINTS (API CONTRACT) ====================
+  // ==================== ADMIN ENDPOINTS  ====================
   // Signalements
   static const String adminSignalements = '/api/admin/signalements';
   static const String adminSignalementTreat = '/api/admin/signalements';

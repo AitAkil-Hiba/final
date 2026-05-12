@@ -1,5 +1,3 @@
-// offre_detail_screen.dart
-// ignore_for_file: deprecated_member_use, prefer_final_fields, unused_field, sort_child_properties_last, sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

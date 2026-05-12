@@ -1,13 +1,4 @@
-// ─────────────────────────────────────────────
-//  FILTRES AVANCÉS
-//  Accessible via showModalBottomSheet depuis la Search Bar
-//
-//  USAGE dans HomeClientScreen :
-//    final result = await ouvrirFiltres(context, _filtres);
-//    if (result != null) setState(() => _filtres = result);
-//
-// ─────────────────────────────────────────────
-// ignore_for_file: unused_element, dead_code, unused_field, deprecated_member_use
+
 
 import 'package:flutter/material.dart';
 import 'package:peeco/client/pages/home_client_screen.dart';
@@ -208,7 +199,6 @@ class _FiltreScreenState extends State<FiltreScreen> {
     return Material(
       color: Colors.transparent,
       child: Container(
-        // 94% de la hauteur de l'écran — occupe quasiment tout
         constraints: BoxConstraints(
           maxHeight: MediaQuery.of(context).size.height * 0.94,
         ),

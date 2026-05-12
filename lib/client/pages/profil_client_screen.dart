@@ -1,9 +1,3 @@
-// ─────────────────────────────────────────────
-//  PROFIL CLIENT — Laaisfraf
-//  Route : '/profil_client'
-//  Position bottom nav : index 4 (icône person)
-// ─────────────────────────────────────────────
-// ignore_for_file: sized_box_for_whitespace, unused_element, dead_code, non_constant_identifier_names, unused_field, deprecated_member_use
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

@@ -152,7 +152,6 @@ class _NotificationsClientPageState extends State<NotificationsClientPage> {
                 ],
               ),
             ),
-            // Filter chips
             SizedBox(
               height: 42,
               child: ListView.builder(

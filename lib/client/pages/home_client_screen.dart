@@ -1,5 +1,3 @@
-// home_client_screen.dart
-// ignore_for_file: deprecated_member_use, sized_box_for_whitespace, no_leading_underscores_for_local_identifiers, unused_element, avoid_unnecessary_containers, unused_label, dead_code, unnecessary_underscores
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -275,7 +273,6 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
   Future<void> _enableLocation() async {
     await _checkLocationService();
     if (_locationServiceEnabled && _permissionGranted == PermissionStatus.granted) {
-      // Show nearby offers immediately, then fetch precise location in background
       setState(() => _locationEnabled = true);
       _locationService.getLocation().then((loc) {
         if (mounted) setState(() => _currentLocation = loc);
@@ -299,7 +296,6 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
   }
 
   Future<void> _openFilters() async {
-    // ouvrirFiltres() est la fonction helper officielle dans filtre_screen.dart
     final result = await ouvrirFiltres(context, _filtres);
     if (result != null) {
       setState(() => _filtres = result);
@@ -362,12 +358,6 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // APP BAR — UNE SEULE barre de recherche
-  // Le doublon venait du StandardHeader (standard_header.dart) qui
-  // affiche aussi une barre quand showSearchBar: true. On n'utilise
-  // PAS StandardHeader ici, on a notre propre _appBar() custom.
-  // ─────────────────────────────────────────────
   Widget _appBar() {
     return Container(
       decoration: BoxDecoration(
@@ -383,7 +373,6 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
       ),
       child: Column(
         children: [
-          // Ligne 1 : Logo + Localisation
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -417,7 +406,6 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
           ),
           const SizedBox(height: 16),
 
-          // Ligne 2 : Barre de recherche décorative
           Container(
             height: 45,
             decoration: BoxDecoration(
@@ -519,9 +507,7 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
     );
   }
 
-  // ─────────────────────────────────────────────
-  // CARROUSEL — même couleur AppColors.cardBg que "Près de vous" + étoiles
-  // ─────────────────────────────────────────────
+ 
   Widget _offersCarousel() {
     final offers = _filteredSpecialOffers;
     if (offers.isEmpty) {
@@ -548,7 +534,7 @@ class _HomeClientScreenState extends State<HomeClientScreen> {
               width: 195,
               margin: const EdgeInsets.only(right: 12),
               decoration: BoxDecoration(
-                color: AppColors.cardBg,                          // ← même couleur que les cartes nearby
+                color: AppColors.cardBg,                         
                 borderRadius: BorderRadius.circular(20),
                 border: Border.all(color: AppColors.divider.withOpacity(0.6)),
                 boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.06), blurRadius: 8, offset: const Offset(0, 3))],

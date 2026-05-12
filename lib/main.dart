@@ -1,48 +1,4 @@
-//////main AMINAAA PERMET D'ACCEDER A PARTIR DE HOME COMMERCANT
-/*
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'commerce/pages/accueil_commercant.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 
-void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setSystemUIOverlayStyle(
-    const SystemUiOverlayStyle(
-      statusBarColor: Colors.transparent,
-      statusBarIconBrightness: Brightness.dark,
-    ),
-  );
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Burger House',
-      debugShowCheckedModeBanner: false,
-      localizationsDelegates: const [
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-      ],
-      supportedLocales: const [Locale('fr', 'FR')],
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF8B4513),
-          brightness: Brightness.light,
-        ),
-        useMaterial3: true,
-      ),
-      home: const AccueilCommercantPage(),
-    );
-  }
-}*/
-
-//main HIBA qui permet de renterer a partir les pages de conexion
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:peeco/client/client.dart';

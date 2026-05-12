@@ -141,6 +141,7 @@ class _AccueilCommercantPageState extends State<AccueilCommercantPage> {
     } catch (e) {
       print('❌ ERREUR dans _loadData: $e');
       setState(() => _isLoading = false);
+      // Error message removed - no longer shows when merchant enters home page
     }
   }
 

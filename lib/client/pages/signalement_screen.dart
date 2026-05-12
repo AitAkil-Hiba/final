@@ -1,9 +1,4 @@
-// ─────────────────────────────────────────────
-//  SIGNALEMENT — Client
-//  - SignalementScreen : formulaire (commerçant ou offre)
-//  - Confirmation après envoi
-// ─────────────────────────────────────────────
-// ignore_for_file: unused_field, deprecated_member_use
+
 
 import 'package:flutter/material.dart';
 

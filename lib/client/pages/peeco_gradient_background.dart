@@ -1,10 +1,4 @@
-// ─────────────────────────────────────────────
-//  WIDGETS COMMUNS
-// ─────────────────────────────────────────────
 
- // ignore_for_file: deprecated_member_use, unnecessary_import, dangling_library_doc_comments
- 
-/// Fond dégradé utilisé sur les écrans secondaires
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:peeco/client/pages/peeco_colors.dart';

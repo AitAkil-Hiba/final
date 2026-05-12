@@ -98,7 +98,6 @@ class _GestionNotificationsClientPageState
                       ),
                     ),
                     const SizedBox(height: 28),
-                    // Toggle "Tout"
                     _buildToggleRow(
                       label: 'Tout',
                       isMain: true,
@@ -158,7 +157,6 @@ class _GestionNotificationsClientPageState
                       ),
                     ),
                     const SizedBox(height: 32),
-                    // Bouton Sauvegarder
                     GestureDetector(
                       onTap: () => Navigator.pop(context),
                       child: Container(

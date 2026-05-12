@@ -1,9 +1,4 @@
-// ─────────────────────────────────────────────
-//  CARTE — Écran dédié
-//  flutter_map + OpenStreetMap
-//  3 états : initial / localisation désactivée / carte active
-// ─────────────────────────────────────────────
-// ignore_for_file: unused_field, deprecated_member_use
+
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -164,8 +159,8 @@ class _CarteScreenState extends State<CarteScreen> {
   MarqueurCommercant? _marqueurSelectionne;
 
   // Filtre avancé
-  double? _noteMin;          // null = pas de filtre
-  double? _distanceMax;      // null = pas de filtre
+  double? _noteMin;         
+  double? _distanceMax;     
   bool get _filtreActif => _noteMin != null || _distanceMax != null;
 
   final TextEditingController _searchController = TextEditingController();
@@ -193,7 +188,6 @@ class _CarteScreenState extends State<CarteScreen> {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Handle
               Center(
                 child: Container(
                   width: 40, height: 4,
@@ -211,7 +205,6 @@ class _CarteScreenState extends State<CarteScreen> {
                       color: _C.textDark)),
               const SizedBox(height: 20),
 
-              // Note minimum
               const Text('Note minimum',
                   style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: _C.textDark)),
               const SizedBox(height: 8),
@@ -386,7 +379,6 @@ class _CarteScreenState extends State<CarteScreen> {
       backgroundColor: _C.scaffold,
       body: Stack(
         children: [
-          // ── Corps principal ──
           Column(
             children: [
               _appBar(),
@@ -411,7 +403,7 @@ class _CarteScreenState extends State<CarteScreen> {
           Positioned(
             bottom: 0, left: 0, right: 0,
             child: AppNavigationBar(
-              selectedIndex: 1, // Map is typically index 1 (search)
+              selectedIndex: 1, 
               onTap: (index) {
                 AppNavigationBar.handleNavigation(context, index);
               },
@@ -622,14 +614,12 @@ class _CarteScreenState extends State<CarteScreen> {
       options: MapOptions(
         initialCenter: _centreKouba,
         initialZoom: 14.5,
-        // ignore: unnecessary_underscores
         onTap: (_, __) =>
             setState(() => _marqueurSelectionne = null),
       ),
       children: [
         // Fond OpenStreetMap
         TileLayer(
-          // APRÈS — utiliser un CDN alternatif plus fiable sur Android :
           urlTemplate: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
           subdomains: const ['a', 'b', 'c'],
           userAgentPackageName: 'com.laaisraf.app',
@@ -772,7 +762,6 @@ class _CarteScreenState extends State<CarteScreen> {
                         c.imageAsset!,
                         width: 70, height:70,
                         fit: BoxFit.cover,
-                        // ignore: unnecessary_underscores
                         errorBuilder: (_, __, ___) => Icon(
                             _catIcon(c.categorie),
                             color: _catColor(c.categorie), size: 22),

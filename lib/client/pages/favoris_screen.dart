@@ -1,17 +1,11 @@
-// ─────────────────────────────────────────────
-//  FAVORIS — Merchants favorites
-//  - Liste des commerçants favoris
-//  - Distance, localisation, offres
-//  - Tap → profil commerçant
-//  - X → supprimer des favoris
-// ─────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 import 'package:peeco/client/pages/navigation_bar.dart';
 import 'package:peeco/client/pages/app_constants.dart';
 import 'package:peeco/client/pages/widgets/standard_header.dart';
 import 'package:peeco/client/pages/widgets/standard_card.dart';
-import 'package:peeco/client/pages/profil_commercant_client_screen.dart'; // ← AJOUT
+import 'package:peeco/client/pages/profil_commercant_client_screen.dart'; 
 
 // ─────────────────────────────────────────────
 // COULEURS - Using AppConstants now
@@ -149,7 +143,7 @@ class _FavorisScreenState extends State<FavorisScreen> {
           Positioned(
             bottom: 0, left: 0, right: 0,
             child: AppNavigationBar(
-              selectedIndex: 0, // Heart/favorites is index 0
+              selectedIndex: 0, 
               onTap: (index) {
                 AppNavigationBar.handleNavigation(context, index);
               },
@@ -218,8 +212,8 @@ class _FavorisScreenState extends State<FavorisScreen> {
           email: '${f.nom.toLowerCase().replaceAll(' ', '')}@email.com',
           adresse: f.adresse,
           nbOffres: f.nbOffres,
-          nbReservations: 0, // À remplacer par des données réelles
-          note: 4.5, // Note par défaut, à remplacer
+          nbReservations: 0, 
+          note: 4.5, 
           revenus: '0 DA',
           description: 'Découvrez les offres de ${f.nom}.',
           logoAsset: f.imageAsset,

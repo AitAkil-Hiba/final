@@ -1,4 +1,3 @@
-// ignore_for_file: unnecessary_import, dangling_library_doc_comments
 
 /// Carte offre anti-gaspillage
 import 'package:flutter/material.dart';

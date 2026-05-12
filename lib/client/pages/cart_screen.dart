@@ -1,4 +1,3 @@
-// ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -52,7 +51,6 @@ class CartScreen extends StatefulWidget {
 
 class _CartScreenState extends State<CartScreen> {
 
-  // ── données fictives (à remplacer par votre provider / state management) ──
   final List<CartItem> _items = [
     CartItem(
       id: '1',
@@ -255,7 +253,7 @@ class _CartScreenState extends State<CartScreen> {
           Positioned(
             bottom: 0, left: 0, right: 0,
             child: AppNavigationBar(
-              selectedIndex: 1, // Cart is typically index 1 (search/cart)
+              selectedIndex: 1, 
               onTap: (index) {
                 AppNavigationBar.handleNavigation(context, index);
               },

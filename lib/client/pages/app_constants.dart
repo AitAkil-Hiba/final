@@ -24,25 +24,24 @@ class AppColors {
   static const Color dangerBg    = Color(0xFFFCEBEB);
   static const Color inputBg     = Color(0xFFFAEDCD);
   static const Color iconBg      = Color(0xFFFAEDCD);
-  // Additional colors needed for compatibility
   static const Color accentBg    = Color(0xFFFAEEDA);
   static const Color input       = Color(0xFFFAEDCD);
-  static const Color textMut     = Color(0xFF8A8070); // Alias for textMuted
+  static const Color textMut     = Color(0xFF8A8070); 
 }
 
 // ─────────────────────────────────────────────
 // TEXT SIZES - Standardized and reduced
 // ─────────────────────────────────────────────
 class AppTextSizes {
-  static const double titleXLarge  = 22.0;  // Extra large for page headers
-  static const double titleLarge   = 18.0;  // Was 20-22
-  static const double titleMedium  = 16.0;  // Was 18-20
-  static const double titleSmall   = 14.0;  // Was 15-16
-  static const double bodyLarge    = 13.0;  // Was 14-15
-  static const double bodyMedium   = 12.0;  // Was 13-14
-  static const double bodySmall    = 11.0;  // Was 12-13
-  static const double caption      = 10.0;  // Was 11-12
-  static const double tiny         = 9.0;   // Was 10-11
+  static const double titleXLarge  = 22.0;  
+  static const double titleLarge   = 18.0;  
+  static const double titleMedium  = 16.0; 
+  static const double titleSmall   = 14.0;  
+  static const double bodyLarge    = 13.0;  
+  static const double bodyMedium   = 12.0;  
+  static const double bodySmall    = 11.0;  
+  static const double caption      = 10.0; 
+  static const double tiny         = 9.0;   
 }
 
 // ─────────────────────────────────────────────
