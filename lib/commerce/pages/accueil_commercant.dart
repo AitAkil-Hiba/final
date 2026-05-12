@@ -141,14 +141,6 @@ class _AccueilCommercantPageState extends State<AccueilCommercantPage> {
     } catch (e) {
       print('❌ ERREUR dans _loadData: $e');
       setState(() => _isLoading = false);
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Erreur de chargement : ${e.toString()}'),
-            backgroundColor: Colors.red,
-          ),
-        );
-      }
     }
   }
 

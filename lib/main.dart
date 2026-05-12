@@ -56,7 +56,7 @@ import 'package:peeco/client/pages/acces_rapide_screen.dart';
 import 'package:peeco/client/pages/carte_screen.dart';
 import 'package:peeco/client/pages/offre_detail_screen.dart';
 import 'package:peeco/client/pages/profil_commercant_client_screen.dart';
-import 'package:peeco/client/pages/notifications_screen.dart';
+import 'package:peeco/client/notifications_client/notifications_client_page.dart';
 import 'package:peeco/client/pages/signalement_screen.dart';
 import 'package:peeco/client/pages/laisser_avis_screen.dart';
 
@@ -119,7 +119,7 @@ class Peeco extends StatelessWidget {
         return MaterialPageRoute(builder: (_) => const CarteScreen());
       case '/notifications_client':
         return MaterialPageRoute(
-          builder: (_) => const NotificationsScreen(estCommercant: false),
+          builder: (_) => const NotificationsClientPage(),
         );
       case '/signaler_offre':
         final nom = settings.arguments as String? ?? 'Cette offre';

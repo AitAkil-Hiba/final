@@ -6,7 +6,7 @@ import 'package:peeco/client/pages/peeco_colors.dart';
 import 'package:peeco/client/pages/reservations_screen.dart';
 import 'package:peeco/client/pages/profil_commercant_client_screen.dart';
 import 'package:peeco/client/pages/profil_client_screen.dart';
-import 'package:peeco/client/pages/notifications_screen.dart';
+import 'package:peeco/client/notifications_client/notifications_client_page.dart';
 import 'package:peeco/client/pages/acces_rapide_screen.dart';
 import 'package:peeco/client/pages/carte_screen.dart';
 import 'package:peeco/client/pages/filtre_screen.dart';
@@ -47,7 +47,7 @@ as OffreDetail;
         },    
          '/reservations':           (_) => const ReservationScreen(),
          
-         '/notifications_client':      (_) => const NotificationsScreen(estCommercant: false),
+         '/notifications_client':      (_) => const NotificationsClientPage(),
 
         // Profil commerçant vu par le CLIENT (arguments: DonneesCommercant?)
         '/profil_commercant_client': (context) {

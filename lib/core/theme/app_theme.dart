@@ -5,12 +5,10 @@ const appGradient = BoxDecoration(
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
     colors: [
-      Color.fromARGB(255, 237, 210, 182),
-      Color.fromARGB(255, 219, 226, 195),
-
-      Color.fromARGB(255, 219, 226, 195),
-      Color.fromARGB(255, 219, 226, 195),
-
+      Color.fromARGB(255, 212, 163, 115),
+      Color(0xFFCCD5AE),
+      Color(0xFFCCD5AE),
+      Color(0xFFCCD5AE),
     ],
   ),
 );
